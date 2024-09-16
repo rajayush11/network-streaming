@@ -1,0 +1,1001 @@
+DeviceID,CustomerID,Timestamp,Region,SignalStrength,CallDropRate,DataTransferSpeed,ComplaintType,CustomerSatisfaction
+Device_28,Customer_16,2024-01-19 16:00:00,East,-71.13,4.17,99.64,Service Disruption,4.06
+Device_3,Customer_18,2024-01-12 01:00:00,East,-86.53,9.62,44.32,Billing Issue,5.16
+Device_33,Customer_12,2024-01-08 17:00:00,North,-99.44,4.3,48.46,Other,6.18
+Device_10,Customer_18,2024-01-08 07:00:00,North,-61.03,4.0,88.61,Billing Issue,2.81
+Device_27,Customer_20,2024-01-28 07:00:00,South,-66.06,2.37,47.93,Other,6.64
+Device_18,Customer_7,2024-01-28 03:00:00,East,-73.86,9.41,93.08,Other,4.36
+Device_44,Customer_9,2024-01-12 14:00:00,West,-87.02,8.47,60.45,Service Disruption,1.99
+Device_25,Customer_6,2024-01-14 07:00:00,North,-72.26,3.08,78.11,Other,5.65
+Device_49,Customer_5,2024-01-11 08:00:00,North,-108.56,1.0,73.56,Network Issue,5.03
+Device_18,Customer_6,2024-01-30 07:00:00,West,-84.32,6.92,44.61,Other,5.86
+Device_26,Customer_7,2024-01-03 07:00:00,East,-112.33,8.46,51.98,Network Issue,7.08
+Device_30,Customer_7,2024-01-18 22:00:00,West,-73.29,5.95,37.07,Other,4.44
+Device_34,Customer_2,2024-01-08 23:00:00,East,-80.54,0.3,73.57,Network Issue,5.65
+Device_25,Customer_1,2024-01-17 21:00:00,North,-83.29,2.19,76.63,Billing Issue,3.55
+Device_29,Customer_5,2024-01-08 02:00:00,South,-72.92,5.34,65.52,Network Issue,1.69
+Device_46,Customer_20,2024-01-25 00:00:00,East,-114.35,4.61,33.89,Network Issue,4.5
+Device_33,Customer_1,2024-01-18 10:00:00,West,-107.03,6.42,24.77,Service Disruption,9.86
+Device_29,Customer_13,2024-01-09 11:00:00,West,-111.48,0.77,84.76,Billing Issue,6.47
+Device_27,Customer_12,2024-01-04 16:00:00,West,-70.22,3.45,58.18,Service Disruption,2.7
+Device_35,Customer_6,2024-01-23 15:00:00,South,-64.48,0.19,48.24,Service Disruption,2.71
+Device_16,Customer_18,2024-01-21 19:00:00,East,-77.92,8.94,46.94,Other,2.0
+Device_14,Customer_14,2024-01-24 10:00:00,South,-85.84,0.34,86.47,Service Disruption,8.36
+Device_33,Customer_19,2024-01-20 03:00:00,North,-90.39,4.17,20.38,Service Disruption,6.75
+Device_36,Customer_5,2024-01-14 22:00:00,South,-77.3,4.27,82.79,Billing Issue,6.38
+Device_46,Customer_4,2024-01-06 13:00:00,East,-65.96,1.48,21.16,Billing Issue,3.81
+Device_39,Customer_11,2024-01-24 12:00:00,West,-66.02,9.22,41.95,Service Disruption,3.09
+Device_18,Customer_20,2024-01-11 19:00:00,West,-90.33,2.85,63.2,Other,6.01
+Device_10,Customer_12,2024-01-10 15:00:00,North,-108.93,4.39,49.15,Service Disruption,4.27
+Device_30,Customer_20,2024-01-06 15:00:00,North,-106.79,6.28,32.53,Network Issue,9.24
+Device_49,Customer_14,2024-01-29 08:00:00,West,-90.06,1.54,66.52,Billing Issue,4.34
+Device_18,Customer_4,2024-01-14 09:00:00,South,-82.62,6.07,62.83,Billing Issue,8.91
+Device_22,Customer_14,2024-01-20 11:00:00,North,-105.32,6.51,87.51,Billing Issue,2.61
+Device_2,Customer_16,2024-01-03 06:00:00,East,-109.29,5.55,71.01,Billing Issue,9.59
+Device_30,Customer_4,2024-01-10 00:00:00,South,-79.76,7.26,26.0,Network Issue,1.33
+Device_25,Customer_14,2024-01-24 03:00:00,East,-104.76,8.33,56.01,Service Disruption,3.96
+Device_5,Customer_1,2024-01-06 18:00:00,West,-106.35,1.79,45.63,Service Disruption,7.36
+Device_33,Customer_17,2024-01-23 22:00:00,North,-115.89,2.81,36.32,Billing Issue,5.51
+Device_3,Customer_14,2024-01-19 04:00:00,North,-104.62,7.64,34.19,Billing Issue,4.4
+Device_28,Customer_9,2024-01-08 01:00:00,South,-87.56,3.61,71.17,Network Issue,3.62
+Device_28,Customer_4,2024-01-08 11:00:00,North,-78.29,9.49,94.48,Billing Issue,8.75
+Device_16,Customer_16,2024-01-23 18:00:00,South,-101.56,5.78,53.42,Billing Issue,4.05
+Device_39,Customer_2,2024-01-03 08:00:00,West,-68.92,5.06,41.31,Billing Issue,6.77
+Device_36,Customer_15,2024-01-16 00:00:00,East,-113.76,9.75,81.44,Network Issue,3.52
+Device_26,Customer_16,2024-01-10 17:00:00,North,-96.94,3.9,99.85,Service Disruption,3.37
+Device_21,Customer_3,2024-01-23 00:00:00,North,-64.97,5.3,55.18,Network Issue,7.75
+Device_20,Customer_1,2024-01-07 11:00:00,South,-119.39,7.72,84.26,Other,9.12
+Device_39,Customer_11,2024-01-25 00:00:00,South,-83.36,0.34,10.81,Network Issue,9.31
+Device_38,Customer_4,2024-01-04 15:00:00,West,-63.8,3.99,36.82,Network Issue,6.91
+Device_8,Customer_18,2024-01-19 04:00:00,East,-115.73,3.39,75.46,Service Disruption,9.68
+Device_24,Customer_4,2024-01-10 09:00:00,East,-89.63,1.55,11.02,Other,8.77
+Device_12,Customer_11,2024-01-12 18:00:00,North,-64.73,6.12,19.66,Billing Issue,5.91
+Device_2,Customer_20,2024-01-14 18:00:00,West,-113.79,1.76,69.37,Other,5.83
+Device_2,Customer_1,2024-01-28 06:00:00,West,-83.49,4.34,41.93,Other,7.79
+Device_7,Customer_14,2024-01-13 10:00:00,West,-100.07,0.28,29.25,Billing Issue,6.98
+Device_22,Customer_14,2024-01-20 10:00:00,South,-107.07,7.85,31.23,Other,7.93
+Device_32,Customer_8,2024-01-23 00:00:00,South,-62.02,8.32,88.89,Other,9.17
+Device_17,Customer_18,2024-01-29 14:00:00,North,-61.49,6.23,20.49,Other,9.71
+Device_43,Customer_15,2024-01-11 04:00:00,East,-80.45,7.47,96.61,Service Disruption,8.46
+Device_10,Customer_20,2024-01-16 00:00:00,East,-92.8,9.93,95.18,Service Disruption,4.63
+Device_11,Customer_9,2024-01-07 17:00:00,East,-80.74,9.52,62.04,Service Disruption,9.47
+Device_45,Customer_18,2024-01-22 05:00:00,South,-106.72,4.54,76.64,Billing Issue,8.91
+Device_47,Customer_16,2024-01-27 10:00:00,North,-86.97,3.15,48.43,Network Issue,2.79
+Device_39,Customer_19,2024-01-08 11:00:00,East,-84.1,3.47,52.28,Other,6.18
+Device_27,Customer_1,2024-01-08 19:00:00,East,-95.45,1.42,73.09,Other,2.69
+Device_43,Customer_17,2024-01-08 15:00:00,North,-82.0,2.66,70.9,Service Disruption,2.75
+Device_42,Customer_2,2024-01-28 21:00:00,West,-111.75,0.82,21.44,Billing Issue,6.49
+Device_18,Customer_18,2024-01-28 01:00:00,East,-76.5,3.99,14.34,Other,9.2
+Device_26,Customer_15,2024-01-30 21:00:00,South,-82.79,9.56,20.59,Billing Issue,2.72
+Device_33,Customer_19,2024-01-17 06:00:00,North,-109.06,5.45,39.38,Service Disruption,3.45
+Device_23,Customer_2,2024-01-12 07:00:00,East,-82.53,8.11,51.58,Other,4.38
+Device_14,Customer_1,2024-01-20 11:00:00,East,-112.6,3.99,96.06,Network Issue,8.27
+Device_18,Customer_6,2024-01-25 17:00:00,East,-111.39,0.58,68.92,Other,4.53
+Device_18,Customer_2,2024-01-07 18:00:00,West,-103.6,0.04,26.57,Service Disruption,2.85
+Device_5,Customer_3,2024-01-30 09:00:00,North,-104.81,5.35,60.13,Billing Issue,7.65
+Device_32,Customer_17,2024-01-14 14:00:00,North,-68.53,2.17,67.9,Other,8.66
+Device_12,Customer_6,2024-01-13 08:00:00,West,-76.87,0.17,21.81,Service Disruption,4.29
+Device_18,Customer_19,2024-01-29 10:00:00,North,-98.7,4.99,28.62,Other,2.63
+Device_49,Customer_14,2024-01-02 21:00:00,North,-71.46,5.4,55.87,Service Disruption,7.99
+Device_4,Customer_11,2024-01-19 23:00:00,North,-117.64,9.69,94.35,Network Issue,9.43
+Device_39,Customer_13,2024-01-01 00:00:00,East,-113.17,1.12,54.74,Other,8.69
+Device_35,Customer_15,2024-01-18 04:00:00,East,-71.57,6.02,76.81,Network Issue,9.26
+Device_46,Customer_1,2024-01-05 10:00:00,East,-107.26,8.83,99.11,Other,6.14
+Device_27,Customer_5,2024-01-17 07:00:00,West,-100.68,3.46,23.48,Service Disruption,3.67
+Device_49,Customer_10,2024-01-05 17:00:00,East,-114.05,1.87,70.43,Other,3.75
+Device_40,Customer_14,2024-01-29 05:00:00,East,-71.16,5.79,68.08,Billing Issue,2.0
+Device_5,Customer_5,2024-01-02 01:00:00,North,-110.84,9.74,49.93,Billing Issue,4.49
+Device_3,Customer_15,2024-01-09 09:00:00,South,-110.38,4.93,81.99,Billing Issue,3.09
+Device_25,Customer_5,2024-01-13 19:00:00,East,-99.67,5.13,95.9,Service Disruption,7.04
+Device_17,Customer_6,2024-01-13 07:00:00,West,-67.05,7.72,72.29,Network Issue,6.08
+Device_3,Customer_9,2024-01-06 11:00:00,West,-71.21,8.87,25.16,Billing Issue,5.24
+Device_45,Customer_17,2024-01-01 19:00:00,East,-101.61,8.27,28.03,Service Disruption,5.83
+Device_32,Customer_5,2024-01-25 03:00:00,South,-114.21,2.22,95.82,Other,6.34
+Device_40,Customer_10,2024-01-08 05:00:00,West,-100.74,3.79,19.27,Billing Issue,4.17
+Device_16,Customer_16,2024-01-20 04:00:00,West,-108.84,5.89,60.63,Other,7.59
+Device_7,Customer_6,2024-01-23 11:00:00,South,-90.14,9.24,99.62,Network Issue,5.76
+Device_22,Customer_10,2024-01-08 01:00:00,West,-69.11,7.82,93.28,Service Disruption,1.13
+Device_30,Customer_5,2024-01-23 09:00:00,West,-73.75,7.27,88.47,Service Disruption,8.85
+Device_34,Customer_2,2024-01-27 23:00:00,West,-96.96,9.0,88.07,Network Issue,8.25
+Device_3,Customer_7,2024-01-04 06:00:00,West,-74.36,2.47,66.22,Other,5.75
+Device_36,Customer_6,2024-01-24 10:00:00,South,-83.41,2.86,22.65,Other,2.47
+Device_43,Customer_4,2024-01-15 07:00:00,West,-104.23,2.96,25.49,Network Issue,4.17
+Device_4,Customer_9,2024-01-06 11:00:00,South,-68.04,3.78,90.2,Billing Issue,5.88
+Device_43,Customer_20,2024-01-27 11:00:00,East,-66.21,2.71,81.22,Other,7.08
+Device_38,Customer_20,2024-01-14 15:00:00,East,-79.48,3.03,69.29,Service Disruption,4.57
+Device_23,Customer_19,2024-01-22 02:00:00,North,-117.4,8.74,67.24,Billing Issue,3.22
+Device_32,Customer_7,2024-01-07 01:00:00,North,-114.72,5.61,80.68,Billing Issue,5.71
+Device_8,Customer_7,2024-01-24 10:00:00,South,-75.46,6.25,76.13,Service Disruption,3.14
+Device_23,Customer_20,2024-01-28 04:00:00,West,-101.66,2.21,12.83,Billing Issue,6.94
+Device_18,Customer_7,2024-01-28 07:00:00,West,-84.3,5.02,33.5,Other,6.19
+Device_18,Customer_2,2024-01-22 10:00:00,North,-91.64,0.49,10.56,Other,6.68
+Device_50,Customer_9,2024-01-22 10:00:00,West,-80.33,7.76,94.81,Billing Issue,5.43
+Device_44,Customer_7,2024-01-03 16:00:00,West,-107.53,2.07,53.38,Service Disruption,8.91
+Device_40,Customer_8,2024-01-04 13:00:00,East,-79.75,8.59,99.57,Other,5.83
+Device_25,Customer_15,2024-01-02 08:00:00,South,-99.89,8.64,88.99,Other,4.62
+Device_32,Customer_4,2024-01-10 15:00:00,South,-91.44,1.79,21.12,Billing Issue,5.09
+Device_1,Customer_12,2024-01-27 03:00:00,South,-106.12,8.83,60.4,Billing Issue,2.96
+Device_4,Customer_6,2024-01-20 17:00:00,West,-111.71,5.74,28.41,Network Issue,4.18
+Device_31,Customer_17,2024-01-24 09:00:00,East,-82.15,2.09,68.18,Service Disruption,4.44
+Device_3,Customer_2,2024-01-29 11:00:00,North,-66.76,0.64,75.64,Billing Issue,9.91
+Device_9,Customer_17,2024-01-05 23:00:00,East,-69.69,1.29,74.93,Service Disruption,7.06
+Device_17,Customer_14,2024-01-02 07:00:00,North,-61.4,7.05,45.83,Other,1.53
+Device_26,Customer_13,2024-01-15 01:00:00,East,-68.85,5.74,45.9,Network Issue,8.1
+Device_29,Customer_18,2024-01-17 11:00:00,North,-89.18,6.62,26.22,Other,2.85
+Device_32,Customer_16,2024-01-17 15:00:00,West,-105.94,6.81,81.72,Service Disruption,7.09
+Device_33,Customer_14,2024-01-15 08:00:00,South,-99.82,1.36,71.6,Other,5.8
+Device_28,Customer_9,2024-01-08 03:00:00,North,-108.88,4.12,62.92,Service Disruption,2.32
+Device_12,Customer_11,2024-01-04 00:00:00,East,-79.36,8.46,74.71,Service Disruption,7.53
+Device_26,Customer_17,2024-01-24 10:00:00,North,-74.96,4.16,79.06,Service Disruption,1.35
+Device_41,Customer_18,2024-01-23 15:00:00,East,-88.7,1.46,50.3,Network Issue,1.93
+Device_36,Customer_11,2024-01-09 07:00:00,North,-74.16,0.81,85.65,Other,4.72
+Device_49,Customer_11,2024-01-30 19:00:00,West,-113.17,6.54,35.04,Network Issue,8.1
+Device_23,Customer_14,2024-01-14 19:00:00,East,-66.12,2.65,98.18,Service Disruption,3.88
+Device_11,Customer_19,2024-01-29 13:00:00,East,-115.07,2.43,41.14,Billing Issue,7.41
+Device_1,Customer_17,2024-01-19 06:00:00,South,-70.15,8.93,45.0,Other,9.5
+Device_49,Customer_8,2024-01-29 03:00:00,North,-67.32,5.22,30.37,Billing Issue,4.17
+Device_49,Customer_4,2024-01-26 04:00:00,East,-96.92,1.81,93.64,Network Issue,8.99
+Device_34,Customer_10,2024-01-15 20:00:00,West,-111.65,7.79,42.21,Billing Issue,4.16
+Device_38,Customer_9,2024-01-12 14:00:00,West,-80.49,0.91,70.42,Service Disruption,1.95
+Device_44,Customer_2,2024-01-29 11:00:00,South,-113.79,6.8,68.09,Billing Issue,4.21
+Device_47,Customer_11,2024-01-10 16:00:00,North,-68.75,9.91,84.5,Network Issue,4.89
+Device_33,Customer_20,2024-01-13 02:00:00,East,-67.23,8.25,90.16,Network Issue,4.78
+Device_7,Customer_2,2024-01-04 06:00:00,North,-75.24,0.49,77.85,Other,4.91
+Device_37,Customer_11,2024-01-20 14:00:00,South,-80.34,4.14,82.88,Other,3.62
+Device_33,Customer_4,2024-01-28 07:00:00,North,-117.33,9.39,84.54,Billing Issue,6.6
+Device_47,Customer_11,2024-01-22 03:00:00,West,-108.05,1.69,51.5,Billing Issue,2.5
+Device_23,Customer_16,2024-01-08 14:00:00,South,-114.93,3.81,95.84,Other,6.01
+Device_8,Customer_13,2024-01-27 16:00:00,West,-94.9,8.76,73.66,Billing Issue,1.9
+Device_6,Customer_2,2024-01-24 01:00:00,North,-112.14,2.14,10.58,Billing Issue,4.11
+Device_6,Customer_17,2024-01-09 02:00:00,East,-70.28,9.91,84.33,Service Disruption,6.56
+Device_27,Customer_1,2024-01-13 23:00:00,West,-90.63,8.28,51.96,Network Issue,3.89
+Device_8,Customer_11,2024-01-28 01:00:00,East,-77.88,0.46,58.15,Other,7.48
+Device_7,Customer_4,2024-01-06 21:00:00,South,-100.75,7.95,76.04,Billing Issue,5.72
+Device_3,Customer_14,2024-01-16 12:00:00,North,-79.93,4.7,43.25,Service Disruption,8.31
+Device_36,Customer_3,2024-01-29 08:00:00,South,-77.84,7.07,12.86,Billing Issue,9.89
+Device_15,Customer_7,2024-01-23 03:00:00,East,-86.7,7.3,38.71,Billing Issue,6.96
+Device_5,Customer_15,2024-01-06 04:00:00,West,-95.16,2.72,66.61,Other,4.56
+Device_8,Customer_17,2024-01-27 02:00:00,West,-115.59,7.19,10.62,Network Issue,9.48
+Device_16,Customer_16,2024-01-29 10:00:00,South,-73.14,0.8,23.29,Service Disruption,9.19
+Device_11,Customer_14,2024-01-22 22:00:00,East,-113.7,7.4,29.98,Billing Issue,7.25
+Device_40,Customer_14,2024-01-27 20:00:00,West,-60.26,0.35,14.92,Service Disruption,8.14
+Device_25,Customer_2,2024-01-06 04:00:00,North,-76.1,3.98,62.91,Billing Issue,7.09
+Device_36,Customer_5,2024-01-23 07:00:00,North,-77.53,0.19,48.75,Billing Issue,8.67
+Device_32,Customer_19,2024-01-13 06:00:00,East,-65.25,5.1,87.61,Service Disruption,5.9
+Device_14,Customer_16,2024-01-04 06:00:00,West,-75.38,5.06,70.95,Billing Issue,3.59
+Device_40,Customer_1,2024-01-18 15:00:00,North,-76.46,2.44,93.61,Service Disruption,6.62
+Device_2,Customer_7,2024-01-02 23:00:00,North,-112.32,1.76,41.55,Network Issue,5.63
+Device_21,Customer_6,2024-01-29 07:00:00,North,-61.18,4.59,39.69,Network Issue,7.28
+Device_22,Customer_7,2024-01-23 02:00:00,West,-66.01,8.32,59.25,Service Disruption,8.83
+Device_36,Customer_7,2024-01-22 04:00:00,North,-70.24,1.49,31.83,Service Disruption,10.0
+Device_39,Customer_14,2024-01-19 00:00:00,North,-74.06,2.43,82.58,Network Issue,4.1
+Device_12,Customer_4,2024-01-11 16:00:00,South,-91.6,1.17,23.69,Service Disruption,4.8
+Device_32,Customer_10,2024-01-24 05:00:00,South,-84.17,8.26,79.33,Billing Issue,4.85
+Device_48,Customer_17,2024-01-26 04:00:00,North,-98.2,4.92,21.36,Network Issue,4.53
+Device_43,Customer_10,2024-01-07 03:00:00,South,-62.44,0.02,63.96,Other,6.94
+Device_25,Customer_9,2024-01-05 05:00:00,South,-95.37,4.5,14.92,Billing Issue,2.82
+Device_12,Customer_6,2024-01-08 19:00:00,North,-87.86,7.21,21.96,Billing Issue,7.79
+Device_41,Customer_5,2024-01-25 05:00:00,North,-82.82,3.94,20.25,Service Disruption,3.71
+Device_36,Customer_11,2024-01-13 16:00:00,South,-81.92,0.6,41.55,Other,3.28
+Device_18,Customer_3,2024-01-21 09:00:00,East,-82.31,9.71,86.82,Other,9.59
+Device_2,Customer_4,2024-01-03 15:00:00,North,-66.98,4.21,91.75,Service Disruption,7.5
+Device_47,Customer_11,2024-01-23 09:00:00,West,-117.44,1.05,97.01,Network Issue,3.38
+Device_27,Customer_14,2024-01-26 02:00:00,West,-65.65,3.99,89.15,Service Disruption,3.28
+Device_25,Customer_13,2024-01-05 23:00:00,North,-73.96,9.28,43.97,Other,8.82
+Device_22,Customer_4,2024-01-10 10:00:00,North,-77.5,2.09,89.49,Billing Issue,1.86
+Device_16,Customer_6,2024-01-26 12:00:00,North,-108.4,3.31,46.62,Other,9.34
+Device_43,Customer_14,2024-01-19 01:00:00,East,-75.88,7.98,76.54,Billing Issue,4.4
+Device_21,Customer_3,2024-01-08 19:00:00,East,-109.75,4.1,21.04,Service Disruption,8.95
+Device_7,Customer_7,2024-01-10 14:00:00,West,-64.13,6.89,58.49,Other,1.09
+Device_2,Customer_17,2024-01-11 05:00:00,South,-98.05,3.36,62.65,Service Disruption,4.12
+Device_18,Customer_11,2024-01-08 11:00:00,South,-100.99,6.84,47.86,Other,9.47
+Device_4,Customer_7,2024-01-04 05:00:00,West,-101.12,9.61,63.56,Billing Issue,8.19
+Device_13,Customer_18,2024-01-15 16:00:00,South,-98.88,5.89,52.08,Service Disruption,8.77
+Device_22,Customer_12,2024-01-11 05:00:00,North,-98.25,5.17,92.93,Billing Issue,2.76
+Device_6,Customer_3,2024-01-03 16:00:00,North,-64.15,3.23,92.78,Billing Issue,8.64
+Device_44,Customer_2,2024-01-30 04:00:00,South,-60.06,2.35,61.14,Service Disruption,3.71
+Device_16,Customer_20,2024-01-16 12:00:00,West,-103.21,7.61,29.24,Other,7.0
+Device_29,Customer_13,2024-01-27 03:00:00,East,-96.63,1.48,84.84,Network Issue,8.54
+Device_28,Customer_4,2024-01-16 02:00:00,North,-117.43,2.3,26.12,Other,7.63
+Device_7,Customer_15,2024-01-23 09:00:00,West,-82.35,7.96,33.48,Service Disruption,9.67
+Device_19,Customer_18,2024-01-14 07:00:00,North,-106.18,7.92,39.02,Other,7.37
+Device_42,Customer_18,2024-01-27 08:00:00,East,-102.37,7.32,14.63,Network Issue,4.41
+Device_10,Customer_7,2024-01-18 10:00:00,East,-113.64,2.38,99.56,Other,9.55
+Device_50,Customer_19,2024-01-29 15:00:00,South,-109.11,1.92,42.81,Other,9.33
+Device_32,Customer_14,2024-01-11 12:00:00,South,-95.69,6.18,70.97,Network Issue,4.9
+Device_47,Customer_19,2024-01-23 10:00:00,West,-71.49,3.13,38.05,Network Issue,2.52
+Device_1,Customer_13,2024-01-20 07:00:00,West,-77.62,4.83,15.84,Billing Issue,4.7
+Device_22,Customer_8,2024-01-04 06:00:00,East,-84.62,0.86,93.37,Billing Issue,6.85
+Device_13,Customer_6,2024-01-20 02:00:00,East,-70.84,0.94,69.72,Network Issue,3.2
+Device_20,Customer_4,2024-01-29 21:00:00,East,-104.11,4.91,20.47,Other,1.98
+Device_45,Customer_10,2024-01-28 02:00:00,North,-63.66,4.71,31.59,Other,2.68
+Device_45,Customer_15,2024-01-23 01:00:00,North,-64.62,8.9,15.33,Service Disruption,5.47
+Device_24,Customer_13,2024-01-20 22:00:00,South,-116.76,3.88,41.72,Billing Issue,6.85
+Device_47,Customer_6,2024-01-02 09:00:00,North,-90.05,1.54,34.92,Network Issue,2.63
+Device_12,Customer_11,2024-01-30 01:00:00,East,-86.87,5.29,14.79,Service Disruption,6.27
+Device_39,Customer_12,2024-01-14 14:00:00,East,-63.19,7.42,15.95,Billing Issue,8.08
+Device_2,Customer_7,2024-01-20 05:00:00,North,-75.78,8.63,42.64,Other,9.46
+Device_49,Customer_14,2024-01-29 13:00:00,South,-85.63,8.26,87.25,Billing Issue,6.75
+Device_40,Customer_10,2024-01-03 04:00:00,North,-67.54,1.11,69.81,Service Disruption,7.52
+Device_48,Customer_13,2024-01-22 08:00:00,North,-84.91,0.45,93.14,Billing Issue,4.08
+Device_5,Customer_16,2024-01-29 05:00:00,North,-68.79,5.81,36.18,Billing Issue,4.67
+Device_19,Customer_20,2024-01-28 02:00:00,South,-97.2,4.6,35.82,Network Issue,7.14
+Device_10,Customer_8,2024-01-05 08:00:00,South,-99.3,9.02,84.32,Billing Issue,7.33
+Device_16,Customer_4,2024-01-05 21:00:00,South,-62.5,4.81,56.69,Network Issue,7.2
+Device_44,Customer_4,2024-01-23 00:00:00,North,-95.48,2.4,53.06,Billing Issue,1.46
+Device_19,Customer_5,2024-01-22 12:00:00,East,-101.74,1.75,95.97,Other,5.42
+Device_47,Customer_5,2024-01-17 03:00:00,West,-76.75,2.14,50.05,Billing Issue,8.54
+Device_36,Customer_10,2024-01-05 07:00:00,North,-71.32,5.33,91.7,Billing Issue,4.59
+Device_25,Customer_1,2024-01-14 10:00:00,North,-83.31,1.87,43.38,Network Issue,3.43
+Device_5,Customer_7,2024-01-19 17:00:00,West,-114.98,7.37,17.13,Billing Issue,7.98
+Device_46,Customer_19,2024-01-16 11:00:00,North,-79.9,0.97,69.74,Other,8.06
+Device_18,Customer_14,2024-01-01 07:00:00,North,-67.0,9.86,87.3,Other,9.47
+Device_10,Customer_9,2024-01-16 14:00:00,North,-119.99,7.66,97.32,Service Disruption,1.23
+Device_25,Customer_14,2024-01-29 13:00:00,South,-79.02,8.88,19.66,Service Disruption,1.08
+Device_30,Customer_7,2024-01-27 22:00:00,East,-106.16,8.62,70.18,Network Issue,7.82
+Device_2,Customer_8,2024-01-20 16:00:00,South,-83.71,8.8,37.69,Service Disruption,2.6
+Device_17,Customer_9,2024-01-27 16:00:00,South,-72.94,1.19,67.14,Network Issue,7.5
+Device_22,Customer_15,2024-01-07 16:00:00,North,-69.24,7.25,59.15,Service Disruption,7.33
+Device_14,Customer_12,2024-01-11 17:00:00,West,-102.99,1.77,21.85,Other,1.61
+Device_16,Customer_17,2024-01-12 13:00:00,West,-109.68,6.87,78.5,Network Issue,2.79
+Device_25,Customer_2,2024-01-08 23:00:00,South,-83.88,8.65,45.66,Service Disruption,7.96
+Device_21,Customer_5,2024-01-04 03:00:00,East,-87.04,3.3,49.42,Other,7.06
+Device_27,Customer_6,2024-01-27 10:00:00,West,-108.61,6.92,67.16,Network Issue,7.92
+Device_45,Customer_13,2024-01-25 08:00:00,North,-105.74,2.75,14.53,Other,4.76
+Device_6,Customer_5,2024-01-07 15:00:00,East,-98.79,5.8,92.47,Other,2.06
+Device_28,Customer_10,2024-01-08 23:00:00,West,-72.94,3.14,41.82,Network Issue,1.83
+Device_26,Customer_15,2024-01-03 08:00:00,West,-60.11,5.98,83.06,Billing Issue,1.31
+Device_47,Customer_8,2024-01-18 10:00:00,West,-115.45,3.52,96.5,Billing Issue,9.49
+Device_28,Customer_15,2024-01-24 05:00:00,East,-82.44,2.16,12.34,Other,6.0
+Device_8,Customer_14,2024-01-29 12:00:00,West,-118.28,2.98,12.15,Service Disruption,4.06
+Device_47,Customer_10,2024-01-16 01:00:00,East,-77.38,7.47,24.53,Other,2.46
+Device_33,Customer_13,2024-01-30 10:00:00,North,-119.18,7.5,50.41,Service Disruption,8.55
+Device_5,Customer_12,2024-01-13 15:00:00,South,-77.16,2.87,28.18,Other,6.55
+Device_50,Customer_3,2024-01-14 23:00:00,East,-97.54,6.6,24.88,Other,8.28
+Device_31,Customer_14,2024-01-17 09:00:00,North,-90.64,6.12,13.48,Service Disruption,5.3
+Device_48,Customer_17,2024-01-25 22:00:00,East,-98.59,6.81,44.91,Billing Issue,3.3
+Device_36,Customer_20,2024-01-30 06:00:00,North,-87.45,9.58,62.73,Other,7.52
+Device_38,Customer_15,2024-01-04 03:00:00,West,-85.93,4.86,46.11,Billing Issue,8.58
+Device_7,Customer_2,2024-01-02 16:00:00,South,-115.24,9.63,23.93,Network Issue,4.35
+Device_2,Customer_18,2024-01-21 03:00:00,East,-109.26,8.04,33.72,Billing Issue,2.02
+Device_13,Customer_7,2024-01-09 01:00:00,North,-67.15,4.06,88.23,Other,6.78
+Device_50,Customer_11,2024-01-21 21:00:00,South,-106.11,1.06,58.81,Other,9.98
+Device_47,Customer_18,2024-01-23 08:00:00,South,-92.61,1.87,31.43,Billing Issue,8.75
+Device_19,Customer_20,2024-01-11 13:00:00,South,-84.49,7.57,35.17,Network Issue,4.77
+Device_8,Customer_15,2024-01-16 14:00:00,West,-100.46,5.93,63.25,Network Issue,1.9
+Device_17,Customer_14,2024-01-29 22:00:00,South,-72.79,3.8,74.29,Billing Issue,6.71
+Device_41,Customer_18,2024-01-28 20:00:00,East,-106.44,7.38,80.5,Service Disruption,8.75
+Device_45,Customer_18,2024-01-15 03:00:00,West,-116.73,5.28,98.56,Billing Issue,2.1
+Device_35,Customer_5,2024-01-10 13:00:00,South,-76.15,0.57,31.86,Service Disruption,6.75
+Device_37,Customer_5,2024-01-08 13:00:00,South,-90.46,8.99,15.82,Service Disruption,3.06
+Device_1,Customer_9,2024-01-22 11:00:00,East,-82.96,7.28,76.52,Network Issue,9.88
+Device_15,Customer_2,2024-01-30 08:00:00,East,-75.58,7.7,39.88,Service Disruption,6.69
+Device_41,Customer_4,2024-01-03 19:00:00,West,-95.85,1.24,71.4,Service Disruption,2.61
+Device_28,Customer_19,2024-01-26 21:00:00,North,-118.42,7.28,92.07,Billing Issue,7.82
+Device_8,Customer_17,2024-01-21 02:00:00,South,-66.97,8.07,27.53,Service Disruption,5.5
+Device_20,Customer_20,2024-01-15 15:00:00,South,-87.83,4.32,18.58,Service Disruption,5.98
+Device_49,Customer_14,2024-01-05 19:00:00,West,-112.65,1.79,72.69,Billing Issue,4.48
+Device_13,Customer_8,2024-01-04 13:00:00,South,-76.43,8.47,53.55,Service Disruption,9.3
+Device_6,Customer_14,2024-01-05 11:00:00,South,-85.73,6.84,15.64,Billing Issue,6.22
+Device_34,Customer_20,2024-01-19 20:00:00,North,-61.34,2.38,37.47,Billing Issue,8.51
+Device_37,Customer_20,2024-01-02 15:00:00,West,-99.96,4.08,60.22,Other,9.1
+Device_36,Customer_1,2024-01-21 18:00:00,East,-81.59,5.32,49.0,Service Disruption,4.17
+Device_47,Customer_5,2024-01-07 10:00:00,South,-94.04,4.38,43.48,Billing Issue,9.85
+Device_4,Customer_15,2024-01-05 22:00:00,South,-64.2,2.83,52.93,Network Issue,7.43
+Device_34,Customer_15,2024-01-01 10:00:00,West,-63.58,6.54,10.78,Other,9.88
+Device_31,Customer_20,2024-01-30 14:00:00,North,-72.36,5.46,59.68,Service Disruption,2.82
+Device_13,Customer_3,2024-01-08 23:00:00,West,-83.47,7.66,77.15,Service Disruption,6.98
+Device_19,Customer_16,2024-01-29 07:00:00,North,-102.41,6.79,54.6,Billing Issue,3.61
+Device_47,Customer_17,2024-01-31 00:00:00,North,-84.97,8.4,90.85,Billing Issue,7.17
+Device_5,Customer_12,2024-01-22 09:00:00,North,-106.7,1.04,83.1,Service Disruption,9.31
+Device_50,Customer_9,2024-01-24 03:00:00,West,-80.9,1.2,48.05,Service Disruption,3.7
+Device_10,Customer_7,2024-01-06 02:00:00,South,-106.78,9.73,17.59,Network Issue,1.11
+Device_33,Customer_2,2024-01-06 02:00:00,North,-92.94,4.81,90.97,Billing Issue,3.73
+Device_38,Customer_16,2024-01-12 01:00:00,West,-80.53,5.62,89.6,Billing Issue,7.56
+Device_31,Customer_1,2024-01-13 06:00:00,West,-116.63,1.44,26.87,Service Disruption,1.65
+Device_12,Customer_2,2024-01-02 12:00:00,North,-69.33,9.68,74.87,Network Issue,8.26
+Device_9,Customer_10,2024-01-18 04:00:00,South,-104.43,2.19,84.39,Service Disruption,7.45
+Device_27,Customer_14,2024-01-04 15:00:00,East,-95.02,1.03,57.62,Service Disruption,6.91
+Device_1,Customer_10,2024-01-05 12:00:00,West,-75.01,8.13,21.71,Other,5.7
+Device_50,Customer_20,2024-01-12 17:00:00,North,-103.7,0.43,99.32,Other,5.54
+Device_28,Customer_2,2024-01-02 17:00:00,West,-62.43,9.01,27.05,Network Issue,4.09
+Device_24,Customer_3,2024-01-04 17:00:00,North,-105.91,1.29,40.08,Other,7.55
+Device_22,Customer_8,2024-01-29 05:00:00,West,-63.81,0.32,34.24,Network Issue,6.76
+Device_5,Customer_11,2024-01-30 22:00:00,South,-111.7,4.82,48.43,Other,4.98
+Device_43,Customer_5,2024-01-21 16:00:00,North,-65.77,4.72,97.39,Network Issue,1.98
+Device_26,Customer_17,2024-01-05 16:00:00,South,-60.33,2.05,68.53,Network Issue,3.6
+Device_40,Customer_20,2024-01-24 03:00:00,North,-72.27,5.9,88.41,Service Disruption,1.4
+Device_39,Customer_20,2024-01-30 11:00:00,South,-104.27,9.22,40.48,Other,7.56
+Device_47,Customer_5,2024-01-06 02:00:00,East,-94.58,6.01,54.95,Other,6.24
+Device_48,Customer_17,2024-01-20 05:00:00,West,-94.82,2.04,34.79,Billing Issue,8.85
+Device_7,Customer_19,2024-01-24 15:00:00,East,-109.35,0.89,49.18,Service Disruption,1.77
+Device_28,Customer_20,2024-01-07 02:00:00,West,-104.87,8.51,26.13,Network Issue,5.75
+Device_15,Customer_4,2024-01-20 23:00:00,East,-102.82,5.78,13.69,Network Issue,4.58
+Device_5,Customer_6,2024-01-17 18:00:00,East,-73.41,7.12,50.13,Service Disruption,1.29
+Device_8,Customer_13,2024-01-16 12:00:00,East,-109.06,0.86,30.67,Network Issue,8.52
+Device_16,Customer_18,2024-01-08 03:00:00,North,-92.74,6.93,59.44,Other,8.01
+Device_20,Customer_5,2024-01-03 03:00:00,West,-73.13,5.36,65.38,Other,6.71
+Device_43,Customer_6,2024-01-14 22:00:00,South,-81.29,5.27,36.11,Other,7.47
+Device_36,Customer_18,2024-01-10 09:00:00,West,-95.9,7.86,50.01,Network Issue,3.33
+Device_10,Customer_10,2024-01-20 05:00:00,East,-90.49,9.68,41.53,Other,5.71
+Device_4,Customer_4,2024-01-07 23:00:00,East,-82.58,5.37,37.09,Other,6.66
+Device_9,Customer_4,2024-01-22 10:00:00,South,-71.92,3.43,29.43,Service Disruption,4.56
+Device_16,Customer_8,2024-01-26 13:00:00,East,-96.38,9.78,11.5,Other,5.29
+Device_37,Customer_19,2024-01-21 04:00:00,West,-104.02,3.67,71.89,Other,5.75
+Device_9,Customer_2,2024-01-05 07:00:00,South,-116.41,5.18,29.4,Network Issue,5.5
+Device_16,Customer_10,2024-01-07 16:00:00,West,-119.83,9.56,51.2,Network Issue,3.66
+Device_31,Customer_13,2024-01-18 06:00:00,North,-64.84,6.33,59.46,Network Issue,7.71
+Device_14,Customer_10,2024-01-22 05:00:00,West,-71.98,1.27,61.13,Service Disruption,1.98
+Device_41,Customer_7,2024-01-01 02:00:00,West,-67.87,9.12,93.73,Network Issue,3.45
+Device_36,Customer_3,2024-01-06 23:00:00,South,-78.13,4.91,80.76,Other,1.02
+Device_10,Customer_3,2024-01-23 23:00:00,South,-92.39,5.16,76.15,Network Issue,6.08
+Device_43,Customer_11,2024-01-09 03:00:00,North,-90.66,5.22,39.79,Network Issue,8.05
+Device_45,Customer_1,2024-01-27 08:00:00,South,-79.1,7.6,16.03,Network Issue,2.3
+Device_15,Customer_19,2024-01-05 20:00:00,East,-83.04,9.86,86.17,Billing Issue,9.56
+Device_33,Customer_1,2024-01-02 18:00:00,South,-73.08,3.14,33.47,Service Disruption,6.05
+Device_15,Customer_4,2024-01-19 15:00:00,North,-95.88,2.58,32.69,Network Issue,2.08
+Device_15,Customer_3,2024-01-09 12:00:00,East,-62.02,6.33,44.02,Network Issue,8.1
+Device_47,Customer_7,2024-01-18 03:00:00,West,-63.69,9.25,48.08,Other,7.21
+Device_5,Customer_2,2024-01-11 04:00:00,East,-108.85,5.33,92.59,Service Disruption,6.86
+Device_14,Customer_5,2024-01-18 22:00:00,North,-84.81,5.97,79.69,Billing Issue,2.61
+Device_50,Customer_12,2024-01-20 01:00:00,South,-77.48,6.25,49.26,Billing Issue,5.91
+Device_40,Customer_3,2024-01-25 16:00:00,West,-81.88,9.65,58.61,Other,4.69
+Device_31,Customer_17,2024-01-28 20:00:00,West,-116.47,3.74,32.14,Service Disruption,6.87
+Device_34,Customer_15,2024-01-06 18:00:00,East,-108.0,8.84,76.26,Billing Issue,9.52
+Device_41,Customer_11,2024-01-12 05:00:00,East,-74.36,7.15,33.76,Network Issue,6.38
+Device_46,Customer_17,2024-01-18 04:00:00,South,-76.7,5.68,83.22,Other,7.61
+Device_28,Customer_3,2024-01-14 16:00:00,East,-84.0,5.44,48.79,Billing Issue,1.26
+Device_48,Customer_11,2024-01-01 21:00:00,South,-80.44,0.01,60.34,Billing Issue,3.2
+Device_27,Customer_14,2024-01-23 21:00:00,North,-95.58,8.98,53.06,Billing Issue,6.91
+Device_45,Customer_13,2024-01-18 14:00:00,West,-82.18,8.14,55.42,Service Disruption,6.34
+Device_3,Customer_2,2024-01-25 17:00:00,South,-91.69,9.18,70.64,Other,6.99
+Device_8,Customer_15,2024-01-01 02:00:00,North,-105.85,0.12,58.13,Other,2.8
+Device_36,Customer_7,2024-01-07 20:00:00,South,-119.64,0.86,17.69,Network Issue,5.78
+Device_25,Customer_13,2024-01-27 00:00:00,West,-67.84,8.13,17.76,Billing Issue,3.87
+Device_49,Customer_19,2024-01-18 15:00:00,South,-74.49,0.33,69.28,Network Issue,8.09
+Device_39,Customer_13,2024-01-22 20:00:00,North,-115.58,0.51,49.74,Network Issue,7.35
+Device_26,Customer_2,2024-01-29 03:00:00,South,-113.59,4.97,58.16,Billing Issue,2.42
+Device_17,Customer_8,2024-01-21 15:00:00,South,-79.13,3.37,73.46,Other,9.75
+Device_46,Customer_7,2024-01-30 22:00:00,South,-82.18,2.69,77.88,Billing Issue,6.18
+Device_7,Customer_1,2024-01-22 18:00:00,North,-105.12,3.46,40.45,Billing Issue,6.96
+Device_9,Customer_12,2024-01-16 12:00:00,West,-70.99,6.08,44.04,Network Issue,3.46
+Device_23,Customer_7,2024-01-30 00:00:00,West,-95.0,5.37,88.17,Billing Issue,6.64
+Device_38,Customer_6,2024-01-07 05:00:00,North,-63.79,4.36,82.24,Other,7.28
+Device_12,Customer_1,2024-01-28 23:00:00,South,-107.33,8.1,71.49,Service Disruption,4.14
+Device_9,Customer_9,2024-01-03 16:00:00,North,-61.89,0.04,13.31,Service Disruption,7.92
+Device_33,Customer_8,2024-01-01 18:00:00,South,-91.31,1.66,84.07,Billing Issue,1.84
+Device_24,Customer_20,2024-01-26 14:00:00,West,-108.76,9.42,45.75,Service Disruption,6.6
+Device_35,Customer_10,2024-01-17 12:00:00,South,-60.25,0.25,63.73,Other,3.19
+Device_38,Customer_4,2024-01-09 09:00:00,East,-85.14,0.22,97.65,Network Issue,2.63
+Device_49,Customer_17,2024-01-20 16:00:00,South,-66.07,5.29,48.39,Other,3.11
+Device_26,Customer_10,2024-01-01 14:00:00,South,-91.58,7.89,36.39,Billing Issue,8.08
+Device_14,Customer_13,2024-01-14 16:00:00,North,-63.47,7.42,40.75,Other,3.18
+Device_15,Customer_8,2024-01-27 22:00:00,North,-103.19,3.2,38.11,Service Disruption,4.91
+Device_3,Customer_2,2024-01-17 15:00:00,South,-111.58,9.37,20.86,Network Issue,7.79
+Device_7,Customer_13,2024-01-20 13:00:00,East,-91.51,0.52,16.65,Service Disruption,3.99
+Device_23,Customer_10,2024-01-21 10:00:00,West,-117.88,5.74,67.6,Billing Issue,1.76
+Device_34,Customer_10,2024-01-22 02:00:00,North,-115.31,8.52,40.91,Network Issue,2.42
+Device_35,Customer_14,2024-01-08 06:00:00,West,-68.99,6.63,50.65,Billing Issue,5.12
+Device_28,Customer_5,2024-01-21 14:00:00,North,-82.46,9.59,56.05,Other,7.05
+Device_30,Customer_18,2024-01-06 10:00:00,South,-100.86,0.48,35.03,Billing Issue,4.86
+Device_3,Customer_14,2024-01-13 08:00:00,North,-69.51,2.44,97.42,Billing Issue,8.35
+Device_44,Customer_10,2024-01-16 22:00:00,South,-94.71,7.57,53.58,Other,7.44
+Device_21,Customer_7,2024-01-06 23:00:00,West,-60.24,3.61,43.84,Network Issue,4.27
+Device_18,Customer_17,2024-01-20 12:00:00,South,-92.96,3.21,87.63,Billing Issue,3.09
+Device_40,Customer_3,2024-01-01 03:00:00,North,-73.51,5.07,95.67,Service Disruption,5.89
+Device_34,Customer_8,2024-01-19 17:00:00,East,-70.08,2.27,54.05,Billing Issue,5.61
+Device_25,Customer_14,2024-01-28 07:00:00,North,-117.86,4.73,86.33,Network Issue,8.61
+Device_41,Customer_15,2024-01-01 05:00:00,North,-81.12,2.97,27.23,Other,3.42
+Device_38,Customer_20,2024-01-17 15:00:00,North,-103.27,2.93,77.53,Other,6.17
+Device_23,Customer_8,2024-01-06 18:00:00,South,-95.29,7.26,52.04,Other,6.53
+Device_11,Customer_11,2024-01-02 05:00:00,East,-89.34,8.77,70.64,Other,1.69
+Device_40,Customer_5,2024-01-07 07:00:00,West,-63.66,9.0,40.57,Other,3.78
+Device_34,Customer_11,2024-01-08 20:00:00,North,-103.45,9.95,81.57,Other,7.33
+Device_4,Customer_1,2024-01-15 04:00:00,East,-114.62,6.36,62.08,Billing Issue,2.18
+Device_5,Customer_3,2024-01-12 20:00:00,South,-96.65,5.24,37.04,Other,8.3
+Device_13,Customer_19,2024-01-01 18:00:00,South,-111.11,7.43,14.9,Network Issue,4.51
+Device_6,Customer_19,2024-01-28 19:00:00,North,-80.27,4.74,93.63,Network Issue,5.08
+Device_16,Customer_4,2024-01-03 19:00:00,North,-93.05,6.54,53.44,Network Issue,3.54
+Device_11,Customer_12,2024-01-26 02:00:00,East,-87.32,4.3,20.62,Service Disruption,2.14
+Device_25,Customer_14,2024-01-07 22:00:00,South,-89.04,4.54,50.58,Service Disruption,1.59
+Device_23,Customer_13,2024-01-18 03:00:00,West,-99.02,5.42,16.06,Network Issue,2.31
+Device_24,Customer_8,2024-01-22 06:00:00,South,-101.47,6.08,68.03,Network Issue,5.22
+Device_37,Customer_19,2024-01-12 09:00:00,South,-76.51,0.72,24.33,Service Disruption,7.25
+Device_16,Customer_18,2024-01-04 19:00:00,South,-69.41,9.93,79.82,Billing Issue,7.06
+Device_46,Customer_6,2024-01-03 19:00:00,East,-111.09,4.38,44.99,Network Issue,2.35
+Device_28,Customer_1,2024-01-26 12:00:00,South,-104.76,0.97,19.55,Network Issue,2.38
+Device_40,Customer_5,2024-01-22 08:00:00,North,-117.31,5.82,50.1,Network Issue,3.41
+Device_45,Customer_15,2024-01-08 12:00:00,West,-78.48,2.14,34.0,Network Issue,1.91
+Device_37,Customer_1,2024-01-18 12:00:00,North,-63.04,6.76,32.34,Service Disruption,5.15
+Device_25,Customer_4,2024-01-16 20:00:00,South,-114.54,8.09,83.24,Billing Issue,4.9
+Device_43,Customer_9,2024-01-28 13:00:00,North,-97.18,5.79,78.76,Other,5.47
+Device_1,Customer_3,2024-01-17 14:00:00,South,-80.59,8.6,60.4,Service Disruption,2.97
+Device_25,Customer_10,2024-01-25 13:00:00,South,-79.82,1.59,48.3,Billing Issue,2.39
+Device_40,Customer_6,2024-01-19 10:00:00,West,-106.7,5.15,26.83,Service Disruption,2.24
+Device_7,Customer_4,2024-01-11 03:00:00,South,-108.7,5.27,49.28,Other,3.52
+Device_33,Customer_13,2024-01-02 11:00:00,West,-114.83,8.33,61.14,Other,6.73
+Device_7,Customer_20,2024-01-13 21:00:00,East,-61.32,5.81,97.29,Service Disruption,5.69
+Device_9,Customer_5,2024-01-03 02:00:00,East,-61.84,4.95,75.23,Network Issue,3.38
+Device_10,Customer_10,2024-01-01 23:00:00,West,-63.43,6.46,84.01,Billing Issue,9.39
+Device_3,Customer_16,2024-01-08 21:00:00,North,-92.89,5.25,40.24,Billing Issue,7.27
+Device_16,Customer_17,2024-01-30 09:00:00,West,-86.48,5.92,28.52,Network Issue,8.52
+Device_13,Customer_3,2024-01-10 11:00:00,North,-74.05,4.98,93.26,Other,5.4
+Device_6,Customer_19,2024-01-03 17:00:00,North,-60.22,6.52,42.65,Billing Issue,8.99
+Device_31,Customer_13,2024-01-21 14:00:00,West,-117.79,0.89,27.71,Network Issue,7.87
+Device_7,Customer_16,2024-01-28 10:00:00,South,-73.7,0.67,89.34,Service Disruption,8.83
+Device_1,Customer_4,2024-01-03 03:00:00,West,-117.41,5.23,56.92,Service Disruption,7.14
+Device_14,Customer_10,2024-01-29 19:00:00,North,-80.0,5.28,84.29,Network Issue,4.6
+Device_20,Customer_8,2024-01-29 21:00:00,South,-72.18,7.45,96.79,Network Issue,1.54
+Device_33,Customer_14,2024-01-16 18:00:00,South,-93.53,7.03,37.91,Network Issue,7.98
+Device_45,Customer_5,2024-01-26 11:00:00,East,-80.69,0.47,39.72,Network Issue,6.81
+Device_48,Customer_20,2024-01-10 22:00:00,South,-92.04,3.08,28.23,Billing Issue,3.65
+Device_12,Customer_1,2024-01-12 06:00:00,North,-66.28,9.04,51.0,Other,4.09
+Device_18,Customer_3,2024-01-30 17:00:00,East,-98.32,5.04,44.66,Other,7.81
+Device_29,Customer_13,2024-01-29 17:00:00,North,-104.0,4.39,27.53,Service Disruption,4.02
+Device_40,Customer_6,2024-01-24 00:00:00,North,-79.07,5.67,83.39,Billing Issue,6.59
+Device_35,Customer_12,2024-01-24 17:00:00,North,-94.11,7.14,48.15,Service Disruption,3.49
+Device_19,Customer_11,2024-01-11 04:00:00,East,-111.76,2.43,73.2,Network Issue,4.26
+Device_16,Customer_6,2024-01-14 13:00:00,South,-84.05,9.38,81.7,Billing Issue,9.38
+Device_9,Customer_14,2024-01-22 22:00:00,West,-107.87,0.34,31.86,Billing Issue,7.35
+Device_39,Customer_12,2024-01-05 14:00:00,East,-81.63,0.86,98.09,Other,8.87
+Device_27,Customer_12,2024-01-20 05:00:00,West,-70.33,0.04,11.52,Billing Issue,5.49
+Device_27,Customer_6,2024-01-03 06:00:00,North,-83.24,5.92,31.44,Billing Issue,1.84
+Device_19,Customer_9,2024-01-29 12:00:00,East,-91.32,6.66,28.61,Service Disruption,5.27
+Device_27,Customer_16,2024-01-04 09:00:00,North,-95.9,3.85,17.72,Billing Issue,7.95
+Device_4,Customer_10,2024-01-02 17:00:00,West,-79.6,0.23,60.37,Billing Issue,3.97
+Device_44,Customer_10,2024-01-21 16:00:00,South,-93.46,9.94,77.39,Network Issue,6.45
+Device_5,Customer_9,2024-01-17 21:00:00,North,-112.35,6.23,64.8,Other,9.8
+Device_42,Customer_17,2024-01-12 19:00:00,West,-115.9,5.83,42.52,Network Issue,1.75
+Device_34,Customer_9,2024-01-02 09:00:00,North,-72.53,3.8,91.11,Billing Issue,1.97
+Device_23,Customer_15,2024-01-16 17:00:00,North,-68.65,0.05,30.0,Billing Issue,8.62
+Device_13,Customer_6,2024-01-09 16:00:00,North,-62.15,7.11,96.91,Billing Issue,1.37
+Device_21,Customer_16,2024-01-30 19:00:00,West,-88.36,9.07,20.04,Billing Issue,1.19
+Device_46,Customer_1,2024-01-11 15:00:00,East,-110.17,9.61,93.98,Service Disruption,6.33
+Device_30,Customer_14,2024-01-24 19:00:00,East,-93.46,0.52,45.54,Billing Issue,5.66
+Device_21,Customer_8,2024-01-17 09:00:00,North,-99.89,7.17,40.86,Billing Issue,8.37
+Device_6,Customer_6,2024-01-15 10:00:00,East,-82.5,5.61,17.64,Network Issue,7.6
+Device_15,Customer_20,2024-01-16 10:00:00,West,-112.84,0.06,79.38,Service Disruption,4.05
+Device_1,Customer_3,2024-01-25 10:00:00,West,-110.82,4.14,80.98,Service Disruption,3.51
+Device_8,Customer_6,2024-01-19 06:00:00,East,-92.23,7.26,93.5,Service Disruption,4.07
+Device_33,Customer_17,2024-01-29 22:00:00,East,-101.49,1.33,31.14,Other,8.75
+Device_36,Customer_9,2024-01-03 13:00:00,North,-91.87,7.95,33.97,Service Disruption,4.76
+Device_9,Customer_7,2024-01-03 16:00:00,West,-102.52,9.32,83.01,Service Disruption,3.69
+Device_18,Customer_19,2024-01-16 03:00:00,East,-75.24,5.31,60.72,Service Disruption,1.48
+Device_33,Customer_13,2024-01-03 05:00:00,North,-73.54,0.41,95.19,Network Issue,6.8
+Device_47,Customer_2,2024-01-17 19:00:00,West,-116.87,4.74,78.57,Network Issue,1.28
+Device_7,Customer_12,2024-01-19 06:00:00,East,-111.0,6.06,17.27,Service Disruption,6.51
+Device_43,Customer_4,2024-01-29 21:00:00,North,-89.55,1.75,17.08,Network Issue,9.27
+Device_24,Customer_12,2024-01-28 00:00:00,East,-70.92,9.34,57.88,Other,5.11
+Device_25,Customer_13,2024-01-07 19:00:00,West,-87.31,0.45,97.82,Service Disruption,2.53
+Device_43,Customer_8,2024-01-02 17:00:00,North,-65.19,1.71,81.62,Billing Issue,5.34
+Device_44,Customer_17,2024-01-29 16:00:00,North,-72.9,5.6,86.39,Network Issue,1.42
+Device_37,Customer_9,2024-01-22 23:00:00,North,-102.53,0.9,89.12,Other,7.88
+Device_15,Customer_13,2024-01-01 13:00:00,West,-71.67,4.52,58.03,Network Issue,4.63
+Device_45,Customer_8,2024-01-18 04:00:00,East,-103.73,0.68,61.43,Network Issue,7.03
+Device_26,Customer_15,2024-01-08 16:00:00,South,-69.65,2.5,40.53,Other,8.2
+Device_6,Customer_1,2024-01-14 09:00:00,East,-104.65,2.12,49.07,Billing Issue,8.28
+Device_8,Customer_2,2024-01-03 07:00:00,West,-116.35,3.93,82.51,Other,9.81
+Device_16,Customer_10,2024-01-03 22:00:00,South,-66.13,7.31,38.46,Service Disruption,1.14
+Device_39,Customer_14,2024-01-24 04:00:00,West,-90.22,5.86,74.28,Service Disruption,2.4
+Device_7,Customer_18,2024-01-03 07:00:00,North,-105.02,3.92,91.56,Other,4.42
+Device_4,Customer_14,2024-01-23 01:00:00,South,-104.42,2.97,99.31,Billing Issue,9.62
+Device_13,Customer_2,2024-01-06 04:00:00,East,-83.9,1.8,32.65,Service Disruption,3.46
+Device_35,Customer_1,2024-01-30 22:00:00,North,-77.52,5.12,60.4,Network Issue,3.13
+Device_22,Customer_20,2024-01-26 09:00:00,West,-62.72,7.9,30.54,Network Issue,6.79
+Device_15,Customer_17,2024-01-30 20:00:00,East,-60.2,0.25,56.91,Network Issue,2.7
+Device_46,Customer_13,2024-01-09 05:00:00,North,-77.71,9.79,81.07,Service Disruption,7.83
+Device_14,Customer_1,2024-01-11 02:00:00,South,-111.67,9.84,86.83,Billing Issue,3.14
+Device_32,Customer_3,2024-01-10 07:00:00,West,-90.72,4.71,31.44,Service Disruption,1.2
+Device_41,Customer_13,2024-01-24 23:00:00,North,-107.76,8.68,55.05,Network Issue,5.25
+Device_9,Customer_20,2024-01-17 03:00:00,West,-87.44,6.84,62.16,Network Issue,8.05
+Device_3,Customer_17,2024-01-22 02:00:00,East,-70.19,8.2,42.27,Network Issue,7.77
+Device_45,Customer_10,2024-01-27 06:00:00,South,-74.77,5.12,84.28,Network Issue,2.11
+Device_1,Customer_7,2024-01-03 06:00:00,North,-60.14,4.24,85.19,Billing Issue,8.9
+Device_49,Customer_16,2024-01-14 06:00:00,South,-111.19,2.03,65.21,Billing Issue,9.45
+Device_39,Customer_13,2024-01-19 05:00:00,East,-84.32,6.12,70.49,Network Issue,5.57
+Device_6,Customer_8,2024-01-30 22:00:00,East,-84.43,4.29,96.28,Service Disruption,3.93
+Device_11,Customer_20,2024-01-25 22:00:00,West,-118.48,8.04,65.92,Network Issue,2.16
+Device_14,Customer_6,2024-01-05 06:00:00,East,-76.43,7.93,63.98,Service Disruption,9.33
+Device_13,Customer_18,2024-01-26 03:00:00,North,-96.67,7.39,87.0,Other,7.86
+Device_21,Customer_3,2024-01-08 09:00:00,North,-93.37,3.18,28.09,Network Issue,5.22
+Device_35,Customer_18,2024-01-02 08:00:00,North,-96.29,1.79,16.34,Service Disruption,9.52
+Device_35,Customer_15,2024-01-05 14:00:00,North,-69.14,5.68,64.9,Billing Issue,4.51
+Device_11,Customer_4,2024-01-08 08:00:00,West,-105.89,8.32,27.81,Network Issue,8.13
+Device_37,Customer_3,2024-01-24 02:00:00,East,-109.94,3.09,28.74,Billing Issue,4.56
+Device_11,Customer_10,2024-01-13 06:00:00,West,-76.19,1.83,35.66,Billing Issue,7.04
+Device_6,Customer_14,2024-01-18 10:00:00,East,-61.56,9.84,34.08,Network Issue,8.68
+Device_48,Customer_17,2024-01-08 00:00:00,West,-91.69,4.64,19.12,Service Disruption,7.25
+Device_12,Customer_20,2024-01-13 00:00:00,South,-115.56,5.49,93.15,Service Disruption,5.78
+Device_20,Customer_19,2024-01-01 14:00:00,North,-86.87,3.86,36.25,Network Issue,3.46
+Device_32,Customer_5,2024-01-11 17:00:00,North,-75.51,6.64,63.91,Billing Issue,4.22
+Device_33,Customer_14,2024-01-10 04:00:00,North,-86.4,0.23,14.22,Billing Issue,1.6
+Device_2,Customer_4,2024-01-04 04:00:00,West,-82.66,7.71,94.23,Network Issue,3.63
+Device_6,Customer_1,2024-01-08 02:00:00,East,-69.66,4.06,28.06,Other,7.9
+Device_7,Customer_13,2024-01-14 04:00:00,East,-80.38,2.79,98.77,Other,1.35
+Device_2,Customer_4,2024-01-27 15:00:00,West,-90.15,8.99,90.8,Service Disruption,4.88
+Device_5,Customer_10,2024-01-07 00:00:00,East,-79.82,9.86,20.13,Service Disruption,2.17
+Device_3,Customer_14,2024-01-30 22:00:00,East,-78.99,0.71,95.44,Billing Issue,9.31
+Device_48,Customer_11,2024-01-06 15:00:00,North,-75.43,4.71,70.42,Billing Issue,8.58
+Device_43,Customer_15,2024-01-17 00:00:00,East,-119.77,6.49,36.42,Network Issue,9.32
+Device_16,Customer_6,2024-01-17 03:00:00,East,-72.97,7.4,53.3,Service Disruption,5.22
+Device_8,Customer_20,2024-01-30 14:00:00,South,-99.23,2.53,69.59,Network Issue,6.86
+Device_40,Customer_14,2024-01-03 20:00:00,North,-64.08,5.2,85.62,Network Issue,2.94
+Device_33,Customer_10,2024-01-05 14:00:00,South,-93.44,9.22,74.93,Network Issue,8.6
+Device_32,Customer_20,2024-01-29 01:00:00,South,-92.78,5.74,87.24,Service Disruption,3.95
+Device_45,Customer_10,2024-01-25 06:00:00,North,-93.43,2.97,25.87,Network Issue,8.02
+Device_22,Customer_3,2024-01-23 12:00:00,East,-98.51,4.97,36.63,Network Issue,4.23
+Device_31,Customer_13,2024-01-14 07:00:00,West,-118.3,9.34,13.61,Billing Issue,2.83
+Device_35,Customer_5,2024-01-23 10:00:00,North,-77.21,5.84,25.11,Billing Issue,1.26
+Device_25,Customer_10,2024-01-26 22:00:00,West,-84.99,5.44,19.5,Other,6.6
+Device_7,Customer_16,2024-01-12 08:00:00,East,-79.49,5.57,16.4,Other,3.3
+Device_43,Customer_2,2024-01-28 02:00:00,South,-63.56,7.07,55.38,Billing Issue,8.86
+Device_28,Customer_14,2024-01-14 02:00:00,South,-112.3,4.64,56.48,Other,6.97
+Device_20,Customer_3,2024-01-18 12:00:00,South,-112.75,7.37,89.78,Network Issue,6.75
+Device_6,Customer_12,2024-01-02 19:00:00,East,-89.42,0.7,92.51,Service Disruption,4.74
+Device_4,Customer_15,2024-01-28 19:00:00,South,-85.29,2.3,12.36,Billing Issue,3.9
+Device_33,Customer_3,2024-01-25 00:00:00,East,-76.08,4.24,10.49,Network Issue,9.49
+Device_25,Customer_12,2024-01-09 04:00:00,West,-113.66,0.43,50.38,Other,6.17
+Device_30,Customer_13,2024-01-16 16:00:00,North,-63.12,4.12,14.44,Billing Issue,9.52
+Device_6,Customer_10,2024-01-26 21:00:00,West,-71.29,6.42,37.8,Other,4.16
+Device_6,Customer_16,2024-01-27 19:00:00,East,-97.28,2.05,35.51,Service Disruption,1.23
+Device_48,Customer_3,2024-01-07 15:00:00,West,-68.34,2.82,61.28,Billing Issue,2.17
+Device_17,Customer_6,2024-01-07 10:00:00,North,-112.31,9.91,43.05,Service Disruption,4.75
+Device_45,Customer_6,2024-01-11 03:00:00,South,-116.95,1.06,40.39,Other,4.8
+Device_38,Customer_6,2024-01-13 02:00:00,North,-113.21,0.22,69.07,Network Issue,6.52
+Device_39,Customer_11,2024-01-05 20:00:00,East,-68.1,3.08,86.68,Other,4.12
+Device_19,Customer_13,2024-01-25 01:00:00,West,-61.97,3.69,93.82,Network Issue,5.6
+Device_36,Customer_13,2024-01-14 00:00:00,West,-80.32,0.01,83.55,Other,4.23
+Device_48,Customer_7,2024-01-23 19:00:00,East,-97.33,6.77,72.95,Network Issue,1.29
+Device_3,Customer_5,2024-01-05 16:00:00,South,-117.14,5.39,82.89,Network Issue,5.53
+Device_30,Customer_13,2024-01-26 19:00:00,South,-78.37,3.51,73.71,Service Disruption,8.63
+Device_10,Customer_17,2024-01-27 11:00:00,East,-93.14,1.33,72.92,Service Disruption,4.57
+Device_36,Customer_15,2024-01-18 02:00:00,South,-106.72,5.65,97.73,Network Issue,7.74
+Device_8,Customer_3,2024-01-11 21:00:00,West,-60.61,7.73,19.15,Billing Issue,8.69
+Device_38,Customer_8,2024-01-25 01:00:00,West,-90.87,2.47,97.72,Network Issue,8.69
+Device_13,Customer_18,2024-01-30 01:00:00,West,-99.82,7.51,61.31,Network Issue,7.05
+Device_9,Customer_15,2024-01-10 18:00:00,North,-75.2,9.15,23.32,Service Disruption,1.69
+Device_22,Customer_6,2024-01-13 08:00:00,East,-108.52,4.6,32.48,Network Issue,6.67
+Device_37,Customer_12,2024-01-11 07:00:00,North,-63.78,5.32,67.67,Billing Issue,9.47
+Device_42,Customer_5,2024-01-18 17:00:00,West,-99.86,0.96,30.84,Billing Issue,8.6
+Device_24,Customer_9,2024-01-04 19:00:00,West,-106.57,1.04,35.64,Billing Issue,7.62
+Device_21,Customer_1,2024-01-03 00:00:00,East,-72.27,3.47,48.58,Other,5.02
+Device_19,Customer_4,2024-01-15 16:00:00,South,-113.87,3.51,27.83,Billing Issue,8.05
+Device_48,Customer_2,2024-01-01 03:00:00,East,-95.72,0.11,68.25,Network Issue,8.82
+Device_9,Customer_18,2024-01-25 15:00:00,North,-83.75,3.37,11.82,Other,2.32
+Device_8,Customer_8,2024-01-15 14:00:00,East,-78.21,6.94,87.95,Other,6.04
+Device_24,Customer_6,2024-01-03 17:00:00,West,-69.05,6.94,79.62,Other,3.81
+Device_13,Customer_5,2024-01-25 11:00:00,South,-114.29,6.5,38.54,Billing Issue,7.97
+Device_43,Customer_11,2024-01-01 12:00:00,West,-110.84,6.06,29.5,Billing Issue,7.49
+Device_10,Customer_17,2024-01-06 07:00:00,East,-103.95,6.38,26.54,Service Disruption,2.47
+Device_17,Customer_12,2024-01-01 11:00:00,South,-63.83,8.48,70.04,Service Disruption,1.34
+Device_15,Customer_15,2024-01-24 17:00:00,East,-65.66,4.46,66.56,Service Disruption,9.95
+Device_13,Customer_12,2024-01-01 21:00:00,South,-102.32,6.29,80.59,Service Disruption,4.42
+Device_41,Customer_9,2024-01-05 01:00:00,North,-64.42,1.64,32.83,Service Disruption,2.13
+Device_1,Customer_19,2024-01-26 08:00:00,East,-79.06,9.44,90.62,Service Disruption,8.42
+Device_11,Customer_5,2024-01-29 10:00:00,South,-62.62,6.04,23.45,Service Disruption,9.8
+Device_18,Customer_6,2024-01-03 08:00:00,East,-116.11,5.4,31.31,Service Disruption,9.06
+Device_25,Customer_19,2024-01-14 07:00:00,South,-119.08,1.6,71.47,Service Disruption,1.23
+Device_29,Customer_5,2024-01-12 04:00:00,South,-99.14,6.18,13.38,Service Disruption,7.7
+Device_3,Customer_20,2024-01-25 13:00:00,West,-112.89,8.12,95.88,Other,8.11
+Device_49,Customer_2,2024-01-04 18:00:00,North,-85.33,7.19,22.39,Billing Issue,5.31
+Device_32,Customer_4,2024-01-20 12:00:00,West,-110.81,3.39,74.33,Network Issue,5.32
+Device_23,Customer_20,2024-01-14 04:00:00,South,-100.8,7.22,57.81,Service Disruption,1.66
+Device_41,Customer_5,2024-01-28 15:00:00,North,-67.11,2.17,15.43,Other,7.23
+Device_43,Customer_4,2024-01-26 07:00:00,North,-68.88,0.98,77.61,Other,2.63
+Device_11,Customer_16,2024-01-16 03:00:00,North,-61.98,5.0,63.36,Other,1.86
+Device_20,Customer_20,2024-01-11 22:00:00,East,-110.76,0.22,42.87,Network Issue,4.73
+Device_27,Customer_14,2024-01-16 20:00:00,North,-105.13,3.65,90.41,Network Issue,4.59
+Device_50,Customer_15,2024-01-29 04:00:00,East,-61.66,1.27,40.71,Other,5.15
+Device_11,Customer_10,2024-01-28 19:00:00,West,-110.91,5.82,29.75,Network Issue,5.04
+Device_11,Customer_1,2024-01-09 09:00:00,West,-114.13,1.02,38.11,Billing Issue,8.21
+Device_34,Customer_2,2024-01-20 14:00:00,South,-70.81,0.13,91.07,Service Disruption,3.5
+Device_48,Customer_15,2024-01-26 17:00:00,North,-64.56,9.67,74.91,Other,9.2
+Device_12,Customer_10,2024-01-09 13:00:00,East,-104.21,4.74,28.3,Network Issue,9.96
+Device_30,Customer_3,2024-01-18 09:00:00,South,-118.81,6.76,88.57,Billing Issue,6.08
+Device_35,Customer_20,2024-01-08 06:00:00,North,-112.89,7.88,17.09,Billing Issue,4.5
+Device_18,Customer_1,2024-01-27 18:00:00,West,-109.07,3.39,43.02,Service Disruption,7.29
+Device_1,Customer_20,2024-01-23 18:00:00,South,-65.98,9.7,73.59,Service Disruption,6.08
+Device_43,Customer_6,2024-01-06 22:00:00,East,-76.19,6.36,24.47,Service Disruption,7.23
+Device_46,Customer_19,2024-01-13 07:00:00,West,-72.73,2.95,81.14,Service Disruption,2.5
+Device_9,Customer_1,2024-01-21 22:00:00,West,-69.18,0.57,22.99,Billing Issue,9.03
+Device_11,Customer_10,2024-01-10 17:00:00,East,-81.86,2.69,25.45,Other,3.04
+Device_10,Customer_15,2024-01-15 16:00:00,West,-96.05,4.11,24.99,Other,3.18
+Device_38,Customer_9,2024-01-03 22:00:00,South,-66.04,9.12,27.1,Service Disruption,9.13
+Device_14,Customer_20,2024-01-22 16:00:00,East,-61.72,8.98,19.57,Other,8.51
+Device_29,Customer_13,2024-01-02 22:00:00,North,-98.63,8.21,24.67,Billing Issue,9.72
+Device_6,Customer_19,2024-01-06 10:00:00,West,-104.37,2.41,81.2,Network Issue,8.79
+Device_19,Customer_4,2024-01-11 17:00:00,East,-78.74,7.25,96.32,Service Disruption,4.26
+Device_39,Customer_14,2024-01-29 16:00:00,East,-116.5,8.24,42.4,Network Issue,8.13
+Device_28,Customer_13,2024-01-16 21:00:00,East,-117.87,4.63,90.58,Service Disruption,3.69
+Device_36,Customer_5,2024-01-18 07:00:00,West,-88.38,8.98,96.9,Service Disruption,3.37
+Device_32,Customer_15,2024-01-21 04:00:00,North,-118.33,4.33,86.78,Other,9.32
+Device_6,Customer_20,2024-01-03 08:00:00,North,-99.8,4.77,55.89,Other,2.57
+Device_21,Customer_7,2024-01-13 08:00:00,East,-104.78,8.14,80.96,Billing Issue,5.15
+Device_17,Customer_6,2024-01-04 09:00:00,East,-90.04,4.12,67.72,Other,8.07
+Device_34,Customer_13,2024-01-13 16:00:00,North,-111.77,0.12,49.0,Network Issue,2.39
+Device_38,Customer_3,2024-01-09 23:00:00,East,-116.06,6.53,80.95,Billing Issue,7.4
+Device_49,Customer_6,2024-01-11 08:00:00,North,-83.03,4.07,59.03,Service Disruption,6.78
+Device_26,Customer_1,2024-01-04 11:00:00,West,-88.65,2.04,20.62,Other,1.66
+Device_38,Customer_2,2024-01-12 16:00:00,South,-67.73,3.64,78.88,Service Disruption,5.02
+Device_7,Customer_3,2024-01-18 03:00:00,South,-68.5,6.3,20.29,Other,7.09
+Device_49,Customer_6,2024-01-20 07:00:00,North,-109.27,7.57,82.36,Other,3.72
+Device_42,Customer_15,2024-01-28 10:00:00,South,-105.6,0.73,97.17,Billing Issue,5.6
+Device_14,Customer_6,2024-01-07 08:00:00,West,-64.3,4.58,23.78,Service Disruption,6.14
+Device_10,Customer_9,2024-01-18 04:00:00,North,-65.97,6.42,53.97,Billing Issue,5.61
+Device_40,Customer_2,2024-01-15 18:00:00,West,-112.95,4.67,89.01,Other,5.48
+Device_24,Customer_20,2024-01-09 00:00:00,North,-74.51,7.1,83.03,Other,5.5
+Device_17,Customer_14,2024-01-04 06:00:00,East,-104.98,3.61,26.6,Service Disruption,4.18
+Device_47,Customer_3,2024-01-03 02:00:00,West,-105.03,5.72,46.32,Other,1.03
+Device_17,Customer_19,2024-01-17 06:00:00,North,-113.92,8.39,10.46,Service Disruption,3.09
+Device_5,Customer_18,2024-01-27 07:00:00,West,-104.0,7.5,60.26,Billing Issue,3.4
+Device_8,Customer_12,2024-01-19 13:00:00,North,-74.76,0.45,59.42,Network Issue,7.04
+Device_5,Customer_8,2024-01-13 20:00:00,West,-113.13,9.31,38.49,Other,5.46
+Device_14,Customer_12,2024-01-27 17:00:00,South,-114.72,7.61,22.92,Billing Issue,5.17
+Device_48,Customer_4,2024-01-21 12:00:00,West,-101.76,5.99,44.53,Other,2.96
+Device_23,Customer_12,2024-01-31 00:00:00,West,-64.63,3.01,62.93,Billing Issue,1.48
+Device_46,Customer_11,2024-01-03 22:00:00,South,-73.44,9.07,64.13,Network Issue,8.62
+Device_4,Customer_20,2024-01-03 14:00:00,East,-98.32,5.7,48.45,Network Issue,1.09
+Device_13,Customer_4,2024-01-15 12:00:00,North,-107.4,3.33,60.97,Billing Issue,1.99
+Device_26,Customer_19,2024-01-08 09:00:00,South,-90.12,8.97,75.9,Billing Issue,6.64
+Device_6,Customer_20,2024-01-24 14:00:00,East,-68.45,6.47,18.14,Billing Issue,7.51
+Device_25,Customer_12,2024-01-27 07:00:00,North,-61.93,1.09,44.31,Service Disruption,8.68
+Device_36,Customer_15,2024-01-10 11:00:00,North,-103.46,3.86,70.49,Service Disruption,1.03
+Device_14,Customer_16,2024-01-06 09:00:00,East,-114.5,5.12,53.3,Network Issue,2.59
+Device_18,Customer_20,2024-01-03 03:00:00,South,-104.26,0.26,56.59,Billing Issue,6.98
+Device_3,Customer_11,2024-01-06 14:00:00,East,-72.83,9.36,79.5,Billing Issue,5.62
+Device_48,Customer_10,2024-01-26 02:00:00,North,-116.23,8.0,21.81,Billing Issue,1.91
+Device_39,Customer_2,2024-01-01 19:00:00,East,-71.05,0.86,16.46,Other,6.96
+Device_36,Customer_2,2024-01-27 17:00:00,North,-86.63,2.22,25.67,Other,9.63
+Device_1,Customer_18,2024-01-18 06:00:00,North,-115.81,8.62,19.06,Service Disruption,6.32
+Device_49,Customer_7,2024-01-25 05:00:00,East,-78.23,8.94,77.56,Service Disruption,5.19
+Device_35,Customer_8,2024-01-18 08:00:00,West,-98.49,8.81,69.67,Network Issue,3.65
+Device_4,Customer_13,2024-01-04 12:00:00,South,-83.23,4.82,64.03,Other,6.75
+Device_33,Customer_11,2024-01-26 09:00:00,North,-68.44,7.68,23.29,Billing Issue,1.36
+Device_7,Customer_10,2024-01-07 15:00:00,East,-110.59,2.94,32.8,Other,5.2
+Device_40,Customer_18,2024-01-26 05:00:00,West,-101.54,3.24,66.58,Service Disruption,1.29
+Device_42,Customer_15,2024-01-14 18:00:00,North,-86.3,8.91,78.46,Billing Issue,7.66
+Device_23,Customer_10,2024-01-07 15:00:00,South,-67.12,6.65,16.58,Billing Issue,7.82
+Device_14,Customer_1,2024-01-13 15:00:00,North,-114.58,6.35,27.98,Service Disruption,8.9
+Device_4,Customer_6,2024-01-07 04:00:00,South,-102.96,4.51,61.28,Other,1.78
+Device_2,Customer_6,2024-01-25 21:00:00,East,-65.41,4.15,10.06,Other,8.22
+Device_47,Customer_11,2024-01-20 23:00:00,East,-65.09,5.91,12.31,Service Disruption,3.41
+Device_47,Customer_5,2024-01-23 12:00:00,South,-87.31,9.39,69.1,Network Issue,5.44
+Device_46,Customer_19,2024-01-07 03:00:00,South,-92.92,3.87,55.74,Billing Issue,1.08
+Device_17,Customer_6,2024-01-13 17:00:00,South,-100.79,7.9,41.47,Other,5.48
+Device_37,Customer_15,2024-01-25 01:00:00,North,-108.28,3.51,83.23,Other,1.58
+Device_19,Customer_18,2024-01-24 15:00:00,East,-98.98,9.71,94.32,Service Disruption,7.91
+Device_10,Customer_12,2024-01-11 12:00:00,South,-94.85,3.27,34.88,Network Issue,8.49
+Device_38,Customer_8,2024-01-29 09:00:00,East,-73.64,4.38,86.92,Service Disruption,6.51
+Device_6,Customer_1,2024-01-05 00:00:00,North,-107.72,0.98,74.41,Network Issue,9.18
+Device_8,Customer_14,2024-01-02 06:00:00,West,-97.07,3.18,67.54,Service Disruption,9.29
+Device_40,Customer_14,2024-01-13 09:00:00,South,-118.69,1.81,68.24,Service Disruption,1.29
+Device_21,Customer_16,2024-01-14 11:00:00,South,-118.38,8.76,38.15,Service Disruption,8.17
+Device_40,Customer_5,2024-01-02 06:00:00,East,-107.98,2.03,59.32,Service Disruption,7.74
+Device_24,Customer_8,2024-01-07 07:00:00,South,-112.75,8.06,60.99,Network Issue,5.43
+Device_4,Customer_14,2024-01-07 19:00:00,South,-83.18,8.32,84.93,Other,2.31
+Device_1,Customer_1,2024-01-23 18:00:00,North,-83.6,4.53,85.17,Service Disruption,7.58
+Device_17,Customer_18,2024-01-16 20:00:00,South,-101.72,4.53,65.52,Other,9.78
+Device_42,Customer_7,2024-01-14 21:00:00,East,-67.27,4.67,99.46,Network Issue,6.0
+Device_2,Customer_15,2024-01-09 20:00:00,West,-75.41,1.07,15.86,Network Issue,2.01
+Device_37,Customer_11,2024-01-13 17:00:00,North,-95.36,6.41,57.55,Billing Issue,7.88
+Device_7,Customer_15,2024-01-11 21:00:00,East,-83.22,4.76,77.99,Billing Issue,7.42
+Device_1,Customer_18,2024-01-20 04:00:00,East,-66.04,8.68,86.48,Billing Issue,1.83
+Device_17,Customer_2,2024-01-06 16:00:00,West,-91.19,5.97,39.86,Other,4.09
+Device_5,Customer_1,2024-01-27 15:00:00,East,-88.42,2.72,13.49,Billing Issue,3.02
+Device_39,Customer_11,2024-01-03 18:00:00,East,-98.98,2.57,87.04,Network Issue,2.44
+Device_15,Customer_2,2024-01-05 14:00:00,West,-65.57,4.97,73.88,Service Disruption,1.71
+Device_7,Customer_5,2024-01-16 08:00:00,East,-66.35,4.13,21.32,Other,4.8
+Device_28,Customer_17,2024-01-07 04:00:00,West,-88.65,1.85,47.28,Service Disruption,2.43
+Device_42,Customer_8,2024-01-29 19:00:00,North,-115.2,3.12,64.28,Network Issue,7.7
+Device_14,Customer_2,2024-01-15 16:00:00,South,-118.77,7.77,60.89,Other,7.98
+Device_21,Customer_18,2024-01-18 02:00:00,East,-107.16,4.73,73.99,Other,1.73
+Device_27,Customer_1,2024-01-26 09:00:00,West,-78.33,3.94,53.42,Network Issue,2.66
+Device_41,Customer_1,2024-01-20 06:00:00,West,-61.58,1.9,50.98,Other,1.29
+Device_46,Customer_3,2024-01-24 01:00:00,West,-96.39,8.99,41.04,Billing Issue,3.1
+Device_1,Customer_8,2024-01-30 13:00:00,South,-95.31,9.88,93.18,Network Issue,9.61
+Device_18,Customer_11,2024-01-16 09:00:00,South,-87.48,4.1,85.39,Other,4.77
+Device_17,Customer_14,2024-01-06 13:00:00,West,-99.26,7.09,24.93,Billing Issue,3.13
+Device_48,Customer_20,2024-01-29 12:00:00,South,-80.04,9.67,15.37,Billing Issue,5.89
+Device_31,Customer_17,2024-01-27 00:00:00,East,-88.66,7.65,49.57,Billing Issue,7.62
+Device_30,Customer_16,2024-01-20 13:00:00,South,-76.34,0.22,54.04,Other,8.78
+Device_45,Customer_6,2024-01-27 14:00:00,South,-84.96,9.14,16.64,Network Issue,4.78
+Device_34,Customer_6,2024-01-14 07:00:00,West,-93.8,6.44,65.02,Billing Issue,2.42
+Device_15,Customer_12,2024-01-20 21:00:00,North,-107.35,4.73,87.99,Billing Issue,8.58
+Device_44,Customer_15,2024-01-23 13:00:00,North,-97.81,3.76,21.92,Billing Issue,6.68
+Device_2,Customer_2,2024-01-18 17:00:00,East,-98.87,5.73,21.48,Other,4.01
+Device_5,Customer_9,2024-01-22 19:00:00,South,-112.95,8.68,53.03,Other,4.84
+Device_18,Customer_17,2024-01-26 06:00:00,South,-91.65,5.2,68.83,Other,5.03
+Device_20,Customer_3,2024-01-27 20:00:00,South,-60.98,8.41,45.34,Other,9.83
+Device_28,Customer_8,2024-01-14 20:00:00,West,-69.89,3.46,49.35,Network Issue,5.67
+Device_19,Customer_17,2024-01-06 07:00:00,East,-114.02,3.8,54.78,Service Disruption,7.98
+Device_12,Customer_2,2024-01-30 02:00:00,West,-84.0,7.96,58.0,Other,6.63
+Device_22,Customer_13,2024-01-02 08:00:00,East,-95.85,9.93,68.8,Other,6.49
+Device_23,Customer_3,2024-01-24 19:00:00,West,-116.48,1.85,87.57,Service Disruption,5.09
+Device_47,Customer_12,2024-01-02 05:00:00,South,-97.63,2.77,47.75,Network Issue,4.55
+Device_37,Customer_3,2024-01-10 11:00:00,West,-89.79,9.18,49.83,Other,1.05
+Device_40,Customer_3,2024-01-25 21:00:00,East,-63.04,2.33,50.04,Other,7.03
+Device_29,Customer_19,2024-01-13 10:00:00,South,-99.67,5.92,64.69,Billing Issue,4.93
+Device_19,Customer_15,2024-01-29 14:00:00,East,-98.34,6.43,62.66,Billing Issue,4.91
+Device_18,Customer_12,2024-01-15 01:00:00,South,-83.32,1.99,70.7,Other,2.03
+Device_24,Customer_1,2024-01-02 12:00:00,West,-85.73,7.77,12.44,Network Issue,5.35
+Device_47,Customer_10,2024-01-13 01:00:00,West,-118.19,9.03,13.91,Service Disruption,2.13
+Device_3,Customer_7,2024-01-05 19:00:00,North,-87.43,3.52,83.98,Other,9.69
+Device_10,Customer_7,2024-01-28 14:00:00,North,-73.46,5.62,97.55,Service Disruption,9.77
+Device_4,Customer_13,2024-01-10 12:00:00,South,-74.09,6.17,36.0,Other,7.22
+Device_31,Customer_20,2024-01-29 21:00:00,East,-81.44,3.39,56.37,Other,4.17
+Device_36,Customer_14,2024-01-15 12:00:00,North,-65.22,1.51,47.31,Service Disruption,5.81
+Device_47,Customer_3,2024-01-11 10:00:00,West,-68.38,1.36,54.68,Service Disruption,6.47
+Device_32,Customer_15,2024-01-04 16:00:00,West,-62.42,1.97,42.86,Network Issue,4.17
+Device_5,Customer_12,2024-01-28 07:00:00,East,-103.13,6.92,12.87,Network Issue,1.28
+Device_32,Customer_5,2024-01-01 23:00:00,East,-96.98,8.7,28.96,Service Disruption,8.47
+Device_30,Customer_11,2024-01-29 21:00:00,West,-64.58,7.18,65.23,Network Issue,7.76
+Device_32,Customer_16,2024-01-21 01:00:00,West,-83.74,5.13,45.75,Billing Issue,8.41
+Device_5,Customer_4,2024-01-08 00:00:00,East,-78.33,6.43,95.64,Other,9.58
+Device_20,Customer_17,2024-01-17 14:00:00,East,-60.59,2.09,40.83,Service Disruption,8.71
+Device_11,Customer_12,2024-01-26 20:00:00,East,-90.81,1.19,23.26,Other,6.47
+Device_7,Customer_12,2024-01-16 13:00:00,East,-115.33,3.31,23.71,Other,4.81
+Device_32,Customer_20,2024-01-27 16:00:00,South,-78.35,4.8,27.05,Other,7.96
+Device_21,Customer_5,2024-01-16 16:00:00,North,-113.32,0.59,62.26,Network Issue,5.39
+Device_19,Customer_7,2024-01-26 10:00:00,South,-95.32,5.05,69.24,Billing Issue,5.78
+Device_8,Customer_4,2024-01-09 14:00:00,North,-70.27,9.06,68.32,Billing Issue,3.5
+Device_31,Customer_7,2024-01-10 02:00:00,North,-77.12,4.81,57.75,Other,9.22
+Device_42,Customer_16,2024-01-29 09:00:00,East,-64.31,8.94,34.66,Other,7.4
+Device_46,Customer_3,2024-01-11 04:00:00,West,-103.34,2.73,18.2,Other,6.16
+Device_32,Customer_16,2024-01-17 15:00:00,South,-73.86,7.34,99.23,Other,4.51
+Device_9,Customer_12,2024-01-29 22:00:00,East,-83.35,4.94,95.13,Billing Issue,5.64
+Device_23,Customer_12,2024-01-08 08:00:00,South,-78.61,2.59,12.13,Other,2.23
+Device_12,Customer_5,2024-01-19 13:00:00,South,-60.11,1.33,47.3,Billing Issue,3.52
+Device_8,Customer_1,2024-01-14 13:00:00,North,-67.0,9.44,58.57,Billing Issue,4.88
+Device_6,Customer_12,2024-01-30 11:00:00,East,-114.88,2.13,17.64,Billing Issue,9.87
+Device_28,Customer_1,2024-01-14 23:00:00,East,-93.65,4.28,98.72,Billing Issue,2.48
+Device_16,Customer_12,2024-01-11 05:00:00,North,-63.62,0.2,22.4,Other,5.45
+Device_35,Customer_15,2024-01-15 19:00:00,West,-87.0,0.25,36.56,Billing Issue,9.12
+Device_25,Customer_18,2024-01-13 08:00:00,North,-88.01,7.33,50.7,Billing Issue,8.61
+Device_41,Customer_9,2024-01-03 20:00:00,East,-94.28,0.06,57.06,Network Issue,1.93
+Device_36,Customer_3,2024-01-07 03:00:00,South,-117.28,5.92,17.16,Service Disruption,8.81
+Device_37,Customer_20,2024-01-28 10:00:00,West,-105.53,9.96,36.48,Other,5.82
+Device_29,Customer_6,2024-01-09 13:00:00,South,-107.6,5.03,95.45,Network Issue,6.83
+Device_6,Customer_8,2024-01-30 07:00:00,North,-103.37,7.84,78.82,Billing Issue,8.4
+Device_21,Customer_1,2024-01-15 00:00:00,North,-98.32,2.59,78.43,Network Issue,7.57
+Device_9,Customer_14,2024-01-12 03:00:00,South,-88.73,9.9,80.66,Service Disruption,2.1
+Device_24,Customer_2,2024-01-22 00:00:00,South,-114.89,9.27,93.88,Other,7.94
+Device_34,Customer_15,2024-01-06 16:00:00,West,-80.63,0.51,87.68,Service Disruption,8.63
+Device_45,Customer_3,2024-01-26 07:00:00,East,-83.95,3.39,51.67,Billing Issue,6.89
+Device_11,Customer_15,2024-01-02 00:00:00,East,-88.67,8.0,25.48,Network Issue,2.26
+Device_22,Customer_7,2024-01-01 07:00:00,East,-101.82,6.26,53.78,Billing Issue,1.36
+Device_46,Customer_1,2024-01-02 21:00:00,West,-114.54,1.95,10.41,Service Disruption,9.75
+Device_37,Customer_4,2024-01-17 17:00:00,South,-101.66,6.64,31.71,Service Disruption,1.83
+Device_37,Customer_16,2024-01-11 13:00:00,South,-92.56,3.85,13.63,Other,8.41
+Device_6,Customer_16,2024-01-25 07:00:00,West,-65.7,0.94,86.93,Network Issue,2.35
+Device_29,Customer_8,2024-01-07 12:00:00,East,-93.1,3.71,16.88,Other,3.76
+Device_41,Customer_1,2024-01-22 09:00:00,North,-99.79,0.06,19.06,Service Disruption,7.87
+Device_28,Customer_16,2024-01-07 13:00:00,South,-115.49,4.12,44.15,Service Disruption,5.24
+Device_26,Customer_12,2024-01-21 04:00:00,North,-69.35,0.9,82.37,Other,7.73
+Device_22,Customer_18,2024-01-24 09:00:00,East,-114.99,9.16,35.92,Billing Issue,1.47
+Device_26,Customer_10,2024-01-07 14:00:00,West,-103.52,4.69,35.18,Billing Issue,5.12
+Device_49,Customer_6,2024-01-07 03:00:00,North,-98.59,6.33,73.51,Billing Issue,7.74
+Device_17,Customer_17,2024-01-02 12:00:00,East,-100.35,8.16,56.05,Other,5.83
+Device_5,Customer_13,2024-01-08 22:00:00,South,-97.48,9.29,93.84,Billing Issue,9.36
+Device_43,Customer_2,2024-01-09 17:00:00,East,-67.92,1.96,64.04,Billing Issue,3.62
+Device_14,Customer_12,2024-01-04 20:00:00,North,-119.77,6.95,98.28,Billing Issue,1.54
+Device_22,Customer_8,2024-01-15 04:00:00,West,-77.56,0.96,50.01,Service Disruption,5.94
+Device_35,Customer_14,2024-01-04 08:00:00,South,-91.84,5.51,25.87,Service Disruption,3.76
+Device_1,Customer_11,2024-01-19 18:00:00,South,-119.15,8.03,98.32,Service Disruption,9.82
+Device_18,Customer_13,2024-01-21 07:00:00,North,-64.83,8.16,39.25,Billing Issue,4.22
+Device_20,Customer_4,2024-01-13 13:00:00,South,-79.02,7.2,29.55,Billing Issue,5.79
+Device_29,Customer_18,2024-01-19 20:00:00,South,-85.47,0.46,75.85,Other,9.54
+Device_20,Customer_20,2024-01-03 00:00:00,West,-62.96,4.41,79.52,Service Disruption,2.51
+Device_34,Customer_8,2024-01-03 10:00:00,North,-114.33,8.48,13.56,Other,8.62
+Device_38,Customer_11,2024-01-28 02:00:00,West,-78.86,9.43,72.08,Other,2.46
+Device_3,Customer_17,2024-01-27 15:00:00,West,-109.62,1.78,89.9,Billing Issue,5.37
+Device_18,Customer_17,2024-01-28 05:00:00,North,-66.96,1.91,40.21,Billing Issue,9.52
+Device_24,Customer_4,2024-01-16 23:00:00,North,-89.4,7.04,40.49,Service Disruption,2.24
+Device_38,Customer_5,2024-01-02 10:00:00,West,-62.27,5.42,94.17,Other,3.41
+Device_9,Customer_6,2024-01-20 18:00:00,North,-66.92,4.33,16.86,Billing Issue,5.47
+Device_3,Customer_10,2024-01-16 02:00:00,West,-86.07,4.07,94.19,Service Disruption,2.33
+Device_42,Customer_15,2024-01-25 08:00:00,North,-73.7,8.58,73.12,Network Issue,8.59
+Device_33,Customer_12,2024-01-22 05:00:00,West,-106.07,3.02,90.17,Other,8.32
+Device_39,Customer_7,2024-01-24 15:00:00,North,-108.01,0.02,56.18,Other,8.57
+Device_30,Customer_14,2024-01-07 09:00:00,South,-91.55,7.86,77.38,Network Issue,3.3
+Device_22,Customer_20,2024-01-14 22:00:00,North,-115.17,5.96,66.26,Billing Issue,2.53
+Device_3,Customer_17,2024-01-12 05:00:00,South,-90.15,0.45,57.15,Service Disruption,4.35
+Device_48,Customer_6,2024-01-10 13:00:00,South,-65.73,0.92,98.43,Network Issue,6.43
+Device_7,Customer_19,2024-01-21 20:00:00,South,-74.86,5.31,27.39,Service Disruption,3.53
+Device_4,Customer_7,2024-01-18 12:00:00,East,-109.77,6.42,55.12,Other,3.31
+Device_35,Customer_14,2024-01-21 20:00:00,North,-73.15,8.53,97.66,Billing Issue,5.06
+Device_30,Customer_18,2024-01-18 11:00:00,North,-112.24,4.97,45.34,Network Issue,6.3
+Device_31,Customer_3,2024-01-17 06:00:00,West,-87.08,7.95,56.06,Billing Issue,6.41
+Device_28,Customer_14,2024-01-01 13:00:00,East,-72.33,2.06,55.78,Network Issue,6.18
+Device_44,Customer_16,2024-01-19 13:00:00,North,-64.51,3.55,91.11,Billing Issue,5.26
+Device_35,Customer_1,2024-01-29 20:00:00,North,-95.26,7.97,17.3,Other,3.54
+Device_23,Customer_7,2024-01-16 00:00:00,East,-114.92,1.76,14.87,Service Disruption,5.91
+Device_10,Customer_10,2024-01-20 00:00:00,East,-111.7,3.8,31.29,Service Disruption,9.87
+Device_45,Customer_9,2024-01-15 07:00:00,North,-102.58,4.11,67.43,Service Disruption,2.78
+Device_43,Customer_5,2024-01-02 13:00:00,East,-66.1,5.19,55.25,Network Issue,1.43
+Device_36,Customer_13,2024-01-09 00:00:00,South,-62.22,7.48,59.32,Service Disruption,4.4
+Device_15,Customer_5,2024-01-13 12:00:00,West,-64.79,3.71,81.82,Network Issue,9.58
+Device_36,Customer_4,2024-01-26 23:00:00,West,-74.52,9.35,46.06,Other,9.58
+Device_47,Customer_11,2024-01-24 20:00:00,South,-75.77,1.63,28.87,Network Issue,5.28
+Device_45,Customer_7,2024-01-11 14:00:00,West,-117.99,3.79,72.72,Billing Issue,5.75
+Device_24,Customer_20,2024-01-27 06:00:00,West,-110.4,9.63,48.49,Service Disruption,3.12
+Device_42,Customer_16,2024-01-28 20:00:00,East,-103.32,0.74,94.89,Service Disruption,7.69
+Device_36,Customer_17,2024-01-08 10:00:00,East,-115.48,1.49,38.36,Billing Issue,7.19
+Device_38,Customer_4,2024-01-23 13:00:00,East,-66.85,2.02,80.25,Billing Issue,3.55
+Device_18,Customer_6,2024-01-21 02:00:00,East,-66.09,4.71,85.29,Other,4.91
+Device_48,Customer_18,2024-01-12 01:00:00,South,-101.52,1.07,87.29,Service Disruption,1.85
+Device_36,Customer_19,2024-01-26 19:00:00,East,-69.59,7.43,81.21,Billing Issue,7.22
+Device_4,Customer_2,2024-01-30 05:00:00,West,-111.18,1.13,54.6,Service Disruption,1.48
+Device_29,Customer_11,2024-01-26 12:00:00,South,-109.96,0.75,93.74,Network Issue,2.5
+Device_32,Customer_17,2024-01-26 18:00:00,North,-68.88,1.03,52.36,Billing Issue,9.77
+Device_34,Customer_12,2024-01-16 02:00:00,East,-104.36,4.87,28.61,Other,7.51
+Device_16,Customer_19,2024-01-23 12:00:00,West,-76.93,3.93,63.36,Other,5.47
+Device_21,Customer_16,2024-01-27 12:00:00,West,-63.32,8.06,35.18,Billing Issue,9.2
+Device_36,Customer_13,2024-01-16 22:00:00,East,-100.4,4.84,32.5,Network Issue,1.29
+Device_46,Customer_17,2024-01-18 15:00:00,South,-65.87,8.03,37.08,Billing Issue,1.34
+Device_6,Customer_9,2024-01-15 11:00:00,South,-81.23,6.88,24.18,Service Disruption,5.19
+Device_8,Customer_10,2024-01-01 17:00:00,North,-93.97,1.29,40.94,Other,5.72
+Device_27,Customer_13,2024-01-03 09:00:00,North,-116.04,0.71,50.5,Other,9.7
+Device_50,Customer_3,2024-01-25 08:00:00,South,-78.19,2.33,20.2,Other,6.35
+Device_10,Customer_6,2024-01-30 05:00:00,West,-101.71,3.22,78.18,Other,5.16
+Device_6,Customer_12,2024-01-22 08:00:00,West,-116.49,0.27,97.15,Billing Issue,7.49
+Device_12,Customer_6,2024-01-09 22:00:00,South,-85.41,6.89,72.46,Billing Issue,4.58
+Device_36,Customer_6,2024-01-30 12:00:00,East,-115.52,3.02,90.69,Network Issue,3.83
+Device_23,Customer_4,2024-01-17 20:00:00,West,-89.37,1.45,35.44,Other,8.22
+Device_41,Customer_13,2024-01-24 22:00:00,East,-110.2,3.49,25.23,Network Issue,2.8
+Device_36,Customer_14,2024-01-23 17:00:00,East,-100.52,2.0,19.68,Service Disruption,6.34
+Device_29,Customer_5,2024-01-26 17:00:00,East,-70.53,9.7,38.92,Billing Issue,4.24
+Device_13,Customer_3,2024-01-15 22:00:00,West,-67.67,9.13,31.43,Service Disruption,1.46
+Device_42,Customer_14,2024-01-06 18:00:00,North,-62.08,2.63,99.83,Service Disruption,6.77
+Device_30,Customer_8,2024-01-26 10:00:00,East,-65.77,1.58,47.2,Network Issue,4.92
+Device_23,Customer_19,2024-01-08 09:00:00,East,-102.16,4.09,95.3,Service Disruption,4.97
+Device_44,Customer_5,2024-01-29 04:00:00,East,-92.03,5.09,14.65,Network Issue,4.8
+Device_23,Customer_6,2024-01-04 02:00:00,North,-93.04,1.4,91.63,Service Disruption,9.16
+Device_7,Customer_14,2024-01-24 22:00:00,West,-95.41,7.07,16.87,Other,4.12
+Device_4,Customer_1,2024-01-05 19:00:00,West,-95.62,6.39,61.29,Service Disruption,1.43
+Device_2,Customer_20,2024-01-25 15:00:00,South,-73.02,4.54,20.13,Service Disruption,7.19
+Device_12,Customer_1,2024-01-15 03:00:00,North,-86.56,5.43,37.87,Billing Issue,6.09
+Device_49,Customer_8,2024-01-15 16:00:00,South,-75.35,4.68,36.04,Network Issue,9.36
+Device_2,Customer_18,2024-01-22 08:00:00,South,-63.54,7.43,49.41,Other,2.18
+Device_37,Customer_14,2024-01-07 21:00:00,West,-119.92,6.58,71.33,Network Issue,3.97
+Device_46,Customer_16,2024-01-28 16:00:00,West,-103.66,7.27,12.15,Network Issue,2.82
+Device_13,Customer_17,2024-01-17 08:00:00,East,-71.31,5.39,84.56,Network Issue,5.17
+Device_15,Customer_2,2024-01-05 08:00:00,South,-100.11,5.83,52.85,Billing Issue,8.04
+Device_48,Customer_20,2024-01-18 01:00:00,West,-60.11,1.68,27.37,Service Disruption,6.23
+Device_36,Customer_10,2024-01-11 05:00:00,East,-68.22,4.12,96.63,Service Disruption,1.46
+Device_34,Customer_13,2024-01-08 11:00:00,East,-79.36,8.6,69.29,Service Disruption,4.4
+Device_7,Customer_15,2024-01-01 17:00:00,South,-72.67,8.11,43.65,Service Disruption,5.57
+Device_48,Customer_19,2024-01-11 11:00:00,East,-85.07,9.46,13.58,Billing Issue,7.5
+Device_36,Customer_15,2024-01-29 23:00:00,East,-84.83,1.13,68.02,Network Issue,6.94
+Device_17,Customer_19,2024-01-25 11:00:00,South,-78.33,6.24,34.87,Service Disruption,5.6
+Device_1,Customer_15,2024-01-09 05:00:00,South,-110.24,3.46,96.22,Service Disruption,8.27
+Device_30,Customer_18,2024-01-11 23:00:00,East,-60.92,2.55,33.9,Billing Issue,2.03
+Device_47,Customer_5,2024-01-01 03:00:00,West,-91.38,9.02,79.09,Service Disruption,8.78
+Device_48,Customer_13,2024-01-24 04:00:00,South,-91.18,4.93,54.04,Billing Issue,7.83
+Device_22,Customer_10,2024-01-03 19:00:00,West,-72.69,4.35,21.26,Network Issue,1.09
+Device_26,Customer_20,2024-01-12 22:00:00,North,-82.96,4.81,82.78,Other,4.53
+Device_41,Customer_20,2024-01-10 07:00:00,South,-85.23,6.77,60.82,Other,7.38
+Device_38,Customer_9,2024-01-31 00:00:00,East,-85.15,4.18,37.17,Service Disruption,1.31
+Device_31,Customer_9,2024-01-06 14:00:00,North,-92.0,9.1,89.4,Billing Issue,6.43
+Device_39,Customer_9,2024-01-20 04:00:00,South,-95.06,9.7,23.25,Billing Issue,9.87
+Device_3,Customer_6,2024-01-03 02:00:00,North,-110.42,8.93,61.94,Billing Issue,5.11
+Device_40,Customer_10,2024-01-28 04:00:00,South,-118.49,1.28,30.14,Other,1.44
+Device_32,Customer_2,2024-01-24 18:00:00,West,-92.03,5.84,34.91,Network Issue,2.41
+Device_34,Customer_7,2024-01-24 10:00:00,North,-117.29,8.04,46.56,Other,7.88
+Device_25,Customer_14,2024-01-19 13:00:00,West,-80.59,6.77,59.83,Service Disruption,8.52
+Device_5,Customer_17,2024-01-22 03:00:00,North,-64.84,0.25,54.74,Billing Issue,7.78
+Device_28,Customer_8,2024-01-22 09:00:00,West,-94.83,8.82,81.86,Other,8.44
+Device_5,Customer_20,2024-01-14 16:00:00,West,-91.4,6.3,53.84,Other,5.99
+Device_1,Customer_13,2024-01-06 06:00:00,West,-99.86,7.85,51.91,Service Disruption,7.17
+Device_1,Customer_13,2024-01-16 19:00:00,North,-61.14,8.55,25.67,Service Disruption,9.84
+Device_5,Customer_1,2024-01-25 00:00:00,North,-100.42,8.98,86.5,Network Issue,5.46
+Device_41,Customer_9,2024-01-02 01:00:00,West,-104.06,2.17,42.07,Billing Issue,7.18
+Device_49,Customer_1,2024-01-05 05:00:00,East,-109.95,5.91,66.75,Billing Issue,3.4
+Device_25,Customer_19,2024-01-21 06:00:00,East,-93.29,3.58,30.32,Other,5.57
+Device_28,Customer_9,2024-01-17 14:00:00,North,-104.08,1.08,99.35,Network Issue,1.17
+Device_1,Customer_16,2024-01-26 12:00:00,West,-95.04,1.56,91.62,Billing Issue,3.68
+Device_20,Customer_10,2024-01-07 13:00:00,North,-75.82,6.22,50.25,Network Issue,5.64
+Device_1,Customer_11,2024-01-03 23:00:00,West,-75.28,4.72,86.36,Network Issue,8.24
+Device_26,Customer_10,2024-01-05 02:00:00,South,-78.3,5.26,25.64,Network Issue,7.65
+Device_15,Customer_8,2024-01-24 00:00:00,West,-76.4,9.38,95.04,Service Disruption,1.67
+Device_5,Customer_8,2024-01-25 01:00:00,East,-66.02,9.52,93.73,Network Issue,4.94
+Device_16,Customer_16,2024-01-28 04:00:00,South,-84.02,6.31,45.24,Service Disruption,5.99
+Device_50,Customer_19,2024-01-29 02:00:00,South,-104.9,7.76,34.1,Network Issue,8.72
+Device_29,Customer_4,2024-01-22 09:00:00,East,-110.53,4.04,57.46,Service Disruption,8.37
+Device_3,Customer_7,2024-01-27 00:00:00,North,-97.13,4.45,35.97,Network Issue,9.97
+Device_25,Customer_9,2024-01-16 19:00:00,South,-89.44,3.19,57.86,Other,9.32
+Device_39,Customer_8,2024-01-06 05:00:00,North,-63.26,9.76,18.11,Billing Issue,3.92
+Device_12,Customer_9,2024-01-04 21:00:00,West,-116.94,3.95,42.03,Service Disruption,1.27
+Device_21,Customer_16,2024-01-27 21:00:00,East,-97.0,4.15,85.56,Service Disruption,1.98
+Device_14,Customer_17,2024-01-24 21:00:00,North,-80.35,4.61,40.19,Other,1.15
+Device_41,Customer_8,2024-01-23 00:00:00,West,-97.49,3.58,61.92,Other,4.78
+Device_6,Customer_1,2024-01-04 11:00:00,South,-119.18,9.42,61.04,Network Issue,8.57
+Device_24,Customer_2,2024-01-27 10:00:00,East,-95.59,1.03,63.45,Other,9.01
+Device_32,Customer_4,2024-01-12 01:00:00,West,-80.7,8.93,16.93,Other,9.35
+Device_24,Customer_17,2024-01-05 07:00:00,East,-110.44,0.55,43.82,Other,1.53
+Device_32,Customer_6,2024-01-01 08:00:00,North,-90.03,5.81,96.08,Network Issue,4.05
+Device_50,Customer_8,2024-01-30 19:00:00,East,-119.96,6.68,79.53,Service Disruption,6.12
+Device_9,Customer_7,2024-01-07 08:00:00,West,-115.46,5.59,14.65,Service Disruption,5.41
+Device_49,Customer_12,2024-01-17 17:00:00,South,-108.98,1.0,40.86,Network Issue,6.02
+Device_49,Customer_11,2024-01-15 13:00:00,East,-75.77,6.14,97.73,Service Disruption,4.51
+Device_10,Customer_14,2024-01-19 10:00:00,North,-66.05,9.14,37.27,Billing Issue,8.03
+Device_4,Customer_4,2024-01-06 01:00:00,South,-93.93,3.63,79.5,Service Disruption,1.79
+Device_47,Customer_15,2024-01-30 18:00:00,West,-69.59,1.31,37.17,Network Issue,9.99
+Device_50,Customer_17,2024-01-16 17:00:00,North,-77.09,1.25,76.08,Billing Issue,1.95
+Device_49,Customer_20,2024-01-22 06:00:00,West,-86.37,2.35,53.87,Other,3.21
+Device_25,Customer_13,2024-01-02 20:00:00,West,-82.42,0.25,86.42,Network Issue,9.58
+Device_22,Customer_2,2024-01-17 12:00:00,East,-82.27,5.21,42.02,Network Issue,6.32
+Device_3,Customer_18,2024-01-09 11:00:00,East,-102.15,1.64,10.67,Network Issue,6.62
+Device_47,Customer_4,2024-01-12 11:00:00,West,-63.04,6.91,90.35,Service Disruption,3.54
+Device_26,Customer_9,2024-01-29 06:00:00,South,-65.87,8.87,79.72,Network Issue,4.95
+Device_20,Customer_6,2024-01-28 06:00:00,South,-68.31,7.76,22.76,Billing Issue,6.36
+Device_43,Customer_18,2024-01-05 23:00:00,East,-73.7,2.13,22.05,Other,3.24
+Device_5,Customer_8,2024-01-15 22:00:00,East,-98.1,9.1,50.32,Service Disruption,4.27
+Device_44,Customer_19,2024-01-18 14:00:00,East,-83.93,8.86,95.37,Other,9.24
+Device_5,Customer_16,2024-01-23 07:00:00,North,-89.04,4.59,28.9,Other,5.68
+Device_23,Customer_4,2024-01-29 08:00:00,North,-92.47,1.72,80.59,Other,3.43
+Device_35,Customer_20,2024-01-14 14:00:00,North,-116.22,8.93,77.13,Other,4.72
+Device_3,Customer_3,2024-01-24 16:00:00,West,-119.95,8.9,73.77,Service Disruption,9.5
+Device_3,Customer_5,2024-01-24 16:00:00,South,-114.45,9.44,48.74,Network Issue,5.67
+Device_18,Customer_1,2024-01-03 09:00:00,East,-106.99,5.21,96.66,Billing Issue,9.5
+Device_18,Customer_12,2024-01-07 17:00:00,South,-61.13,0.96,59.92,Network Issue,8.96
+Device_50,Customer_10,2024-01-13 20:00:00,West,-94.96,7.43,12.29,Other,5.1
+Device_18,Customer_1,2024-01-29 08:00:00,North,-61.07,6.62,57.35,Network Issue,2.98
+Device_21,Customer_17,2024-01-20 08:00:00,East,-94.09,6.52,36.34,Network Issue,2.86
+Device_13,Customer_13,2024-01-09 15:00:00,South,-82.02,5.64,27.99,Other,2.17
+Device_9,Customer_6,2024-01-07 04:00:00,South,-104.53,8.23,16.86,Other,1.07
+Device_15,Customer_11,2024-01-25 03:00:00,North,-88.79,9.08,81.62,Network Issue,8.42
+Device_24,Customer_7,2024-01-14 06:00:00,East,-116.47,7.17,46.04,Network Issue,2.48
+Device_46,Customer_14,2024-01-01 06:00:00,West,-81.73,1.66,99.42,Network Issue,4.68
+Device_42,Customer_6,2024-01-15 15:00:00,South,-77.18,7.45,51.32,Other,1.37
+Device_19,Customer_14,2024-01-13 19:00:00,North,-107.68,2.81,95.74,Billing Issue,3.94
+Device_44,Customer_1,2024-01-18 21:00:00,East,-100.82,8.41,48.8,Billing Issue,4.26
+Device_21,Customer_1,2024-01-30 12:00:00,West,-99.16,3.83,64.35,Service Disruption,5.48
+Device_8,Customer_19,2024-01-24 04:00:00,East,-64.05,9.67,18.27,Network Issue,7.6
+Device_48,Customer_3,2024-01-05 11:00:00,North,-71.26,9.2,21.71,Billing Issue,9.67
+Device_5,Customer_20,2024-01-05 17:00:00,West,-66.96,9.89,65.7,Network Issue,8.91
+Device_10,Customer_14,2024-01-28 01:00:00,South,-92.25,3.91,37.55,Service Disruption,6.94
+Device_35,Customer_4,2024-01-07 17:00:00,South,-66.93,6.09,90.1,Service Disruption,6.67
+Device_23,Customer_11,2024-01-13 16:00:00,South,-113.39,1.83,93.31,Other,3.86
+Device_39,Customer_14,2024-01-25 10:00:00,North,-80.68,0.36,50.7,Service Disruption,4.48
+Device_33,Customer_12,2024-01-14 22:00:00,East,-66.96,1.41,33.95,Billing Issue,9.76
+Device_12,Customer_12,2024-01-22 04:00:00,West,-88.4,5.71,30.4,Other,6.84
+Device_4,Customer_14,2024-01-11 10:00:00,North,-97.85,8.15,96.41,Network Issue,6.96
+Device_15,Customer_15,2024-01-03 18:00:00,North,-103.84,9.13,62.84,Billing Issue,9.63
+Device_41,Customer_16,2024-01-25 01:00:00,South,-69.18,4.45,15.01,Service Disruption,9.33
+Device_5,Customer_20,2024-01-11 11:00:00,North,-114.43,3.5,23.41,Billing Issue,7.27
+Device_28,Customer_2,2024-01-21 15:00:00,South,-66.79,6.31,96.35,Billing Issue,6.7
+Device_26,Customer_9,2024-01-26 23:00:00,East,-91.32,3.64,61.77,Network Issue,3.4
+Device_11,Customer_7,2024-01-15 10:00:00,West,-71.06,9.05,20.54,Billing Issue,4.92
+Device_20,Customer_12,2024-01-09 03:00:00,North,-63.11,2.44,85.48,Billing Issue,6.69
+Device_31,Customer_3,2024-01-27 12:00:00,North,-84.87,1.71,90.9,Network Issue,8.01
+Device_17,Customer_5,2024-01-12 18:00:00,East,-64.01,0.22,91.18,Other,4.07
+Device_10,Customer_18,2024-01-08 00:00:00,East,-71.38,4.93,76.94,Network Issue,8.63
+Device_3,Customer_15,2024-01-06 00:00:00,North,-94.5,6.8,88.03,Service Disruption,5.49
+Device_48,Customer_5,2024-01-09 14:00:00,South,-64.51,2.34,46.75,Service Disruption,9.72
+Device_3,Customer_6,2024-01-04 18:00:00,North,-107.68,6.9,11.45,Other,4.08
+Device_46,Customer_1,2024-01-10 01:00:00,West,-98.41,4.3,65.37,Billing Issue,5.85
+Device_41,Customer_18,2024-01-16 17:00:00,South,-60.11,7.41,28.96,Service Disruption,7.79
+Device_19,Customer_3,2024-01-13 10:00:00,South,-60.5,7.63,11.62,Billing Issue,1.7
+Device_30,Customer_3,2024-01-28 01:00:00,East,-67.84,8.6,83.54,Billing Issue,1.44
+Device_13,Customer_15,2024-01-10 06:00:00,North,-108.47,7.46,74.87,Service Disruption,3.07
+Device_2,Customer_17,2024-01-29 07:00:00,East,-68.53,5.78,36.0,Billing Issue,7.22
+Device_36,Customer_19,2024-01-23 06:00:00,South,-82.07,9.7,69.04,Other,5.4
+Device_3,Customer_19,2024-01-24 05:00:00,West,-115.84,9.68,74.51,Network Issue,9.82
+Device_1,Customer_9,2024-01-13 20:00:00,South,-84.91,8.58,97.3,Network Issue,1.2
+Device_4,Customer_2,2024-01-25 13:00:00,South,-107.68,8.13,11.14,Billing Issue,3.8
+Device_1,Customer_20,2024-01-01 02:00:00,East,-73.63,2.73,95.61,Other,6.85
+Device_32,Customer_19,2024-01-26 09:00:00,North,-101.52,5.26,28.88,Service Disruption,2.02
+Device_11,Customer_13,2024-01-23 01:00:00,East,-99.81,1.73,10.6,Other,1.92
+Device_22,Customer_17,2024-01-30 18:00:00,South,-116.56,8.58,54.37,Network Issue,1.64
+Device_32,Customer_6,2024-01-10 21:00:00,East,-94.66,9.18,82.33,Service Disruption,5.12
+Device_11,Customer_3,2024-01-14 14:00:00,West,-73.41,6.7,64.56,Billing Issue,5.07
+Device_3,Customer_8,2024-01-29 06:00:00,North,-108.26,5.38,53.03,Billing Issue,6.18
+Device_16,Customer_11,2024-01-22 14:00:00,East,-78.08,8.82,68.3,Network Issue,3.42
+Device_35,Customer_10,2024-01-11 16:00:00,South,-94.08,8.06,87.29,Billing Issue,7.74
+Device_33,Customer_9,2024-01-21 10:00:00,North,-105.8,4.23,25.34,Service Disruption,1.63
+Device_23,Customer_5,2024-01-30 00:00:00,East,-109.98,7.77,44.05,Billing Issue,7.96
+Device_4,Customer_20,2024-01-21 11:00:00,West,-112.81,3.78,58.81,Other,2.46
+Device_8,Customer_14,2024-01-30 23:00:00,South,-81.23,1.88,51.6,Network Issue,3.71
+Device_30,Customer_5,2024-01-20 16:00:00,South,-107.76,3.24,48.67,Billing Issue,5.39
+Device_28,Customer_17,2024-01-29 05:00:00,East,-88.04,9.6,59.46,Network Issue,4.28
+Device_48,Customer_1,2024-01-17 19:00:00,East,-113.04,1.53,34.02,Network Issue,5.03
