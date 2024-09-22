@@ -23,7 +23,11 @@ Use Databricks Structured Streaming to process data as it arrives from Kafka. Ap
 3. Storage in Delta Lake
 Store the processed streaming data in Delta Lake. Use Delta Lake to manage real-time data with ACID transactions. This ensures data consistency while handling high-velocity data streams.
 
-4. Sending Data to Power BI Using Streaming API
+4. Automation using Delta Live Tables(DLT)
+The complete pipeline for the deltalake transformation is automated using the delta live table.
+
+   
+5. Sending Data to Power BI Using Streaming API
 After processing the data, use the Power BI Streaming API to push real-time data to Power BI. Visualize metrics such as signal strength trends and call drop rates in real-time. Configure dashboards to update dynamically as new data is streamed into Power BI.
 
 
