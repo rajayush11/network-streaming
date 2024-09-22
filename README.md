@@ -35,14 +35,4 @@ Use Case: Real-Time Network Performance Monitoring
 
 This use case involves streaming network performance metrics like signal strength and call drop rates. The data is processed in real-time and stored in Delta Lake. Power BI dashboards visualize the real-time metrics, providing insights into network health and potential outages.
 
-
-Steps for Docker :
-
-1. Create a File for the project. Save the docker .yml file there.
-2. Open cmd in that file and run " docker-compose up " command.
-3. After this run " docker-compose ps " command to check if the kafka and zookeeper is up.
-4. FOR KAFKA - docker ps for kafka contanier ID. 
-5. use " docker exec -it <container_id> /bin/bash " for executing the kafka .
-6. " kafka-topics.sh --create --topic test --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1 " command for creating a topic inside the container.
-7. " kafka-console-producer.sh --topic test --bootstrap-server localhost:9092 " for producer.
-8. " kafka-console-consumer.sh --topic test --bootstrap-server localhost:9092 --from-beginning " for consumer.
+The project documentation provides a comprehensive overview of all aspects of the project. It serves as a primary reference for any information required, detailing the project’s objectives, design, implementation, outcomes , challenges. For any clarifications or further insights, please consult the documentation.
