@@ -23,11 +23,7 @@ Use Databricks Structured Streaming to process data as it arrives from Kafka. Ap
 3. Storage in Delta Lake
 Store the processed streaming data in Delta Lake. Use Delta Lake to manage real-time data with ACID transactions. This ensures data consistency while handling high-velocity data streams.
 
-4. Automation using Delta Live Tables(DLT)
-The complete pipeline for the deltalake transformation is automated using the delta live table.
-
-   
-5. Sending Data to Power BI Using Streaming API
+4. Sending Data to Power BI Using Streaming API
 After processing the data, use the Power BI Streaming API to push real-time data to Power BI. Visualize metrics such as signal strength trends and call drop rates in real-time. Configure dashboards to update dynamically as new data is streamed into Power BI.
 
 
@@ -35,4 +31,14 @@ Use Case: Real-Time Network Performance Monitoring
 
 This use case involves streaming network performance metrics like signal strength and call drop rates. The data is processed in real-time and stored in Delta Lake. Power BI dashboards visualize the real-time metrics, providing insights into network health and potential outages.
 
-The project documentation provides a comprehensive overview of all aspects of the project. It serves as a primary reference for any information required, detailing the project’s objectives, design, implementation, outcomes , challenges. For any clarifications or further insights, please consult the documentation.
+
+Steps for Docker :
+
+1. Create a File for the project. Save the docker .yml file there.
+2. Open cmd in that file and run " docker-compose up " command.
+3. After this run " docker-compose ps " command to check if the kafka and zookeeper is up.
+4. FOR KAFKA - docker ps for kafka contanier ID. 
+5. use " docker exec -it <container_id> /bin/bash " for executing the kafka .
+6. " kafka-topics.sh --create --topic test --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1 " command for creating a topic inside the container.
+7. " kafka-console-producer.sh --topic test --bootstrap-server localhost:9092 " for producer.
+8. " kafka-console-consumer.sh --topic test --bootstrap-server localhost:9092 --from-beginning " for consumer.
